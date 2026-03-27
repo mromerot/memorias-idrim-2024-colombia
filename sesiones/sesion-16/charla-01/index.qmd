@@ -1,0 +1,37 @@
+---
+title: Evaluación de la vulnerabilidad al cambio climático y estrategias de gestión de riesgos para la seguridad hídrica en comunidades vulnerables de la costa colombiana
+author:
+- name: Samuel D. Pinto Argel
+  affiliations:
+  - Fundación para el Saneamiento, Ambiente, Higiene, Emprendimiento y Desarrollo Sostenible, Montería, Colombia
+  corresponding: true
+  email: spintoargel84@correo.unicordoba.edu.co
+- name: Yonathan Méndez Nobles
+  affiliations:
+  - Universidad Pontificia Bolivariana, Montería, Colombia
+- name: Humberto C. Tavera Quiroz
+  affiliations:
+  - Fundación para el Saneamiento, Ambiente, Higiene, Emprendimiento y Desarrollo Sostenible, Montería, Colombia
+- name: Jorge E. Cárdenas de la Ossa
+  affiliations:
+  - Fundación para el Saneamiento, Ambiente, Higiene, Emprendimiento y Desarrollo Sostenible, Montería, Colombia
+keywords:
+- Seguridad hídrica
+- Adaptación al cambio climático
+- Gestión de sequías
+- Recursos hídricos sostenibles
+- Prácticas sostenibles
+abstract: El cambio climático tiene un impacto significativo en la seguridad hídrica de las zonas costeras, afectando particularmente a las comunidades ubicadas en Juan de Acosta, Tubará y Puerto Colombia
+  en la costa colombiana. Estos municipios experimentan mayores riesgos climáticos como inundaciones, sequías y erosión debido a su ubicación costera y clima tropical seco. La falta de fuentes de agua sustanciales
+  obliga a los residentes a depender de pozos y, ocasionalmente, de la recolección de agua de lluvia, lo que enfatiza la necesidad urgente de una gobernanza climática efectiva y estrategias sólidas de adaptación
+  y mitigación. Esta necesidad se acentúa aún más por la participación limitada de la sociedad civil y la insuficiencia de los marcos públicos para integrar acciones climáticas efectivas. Este estudio adoptó
+  un enfoque multidimensional para analizar el impacto del cambio climático en los patrones de precipitación y la seguridad hídrica. Inicialmente analizamos datos históricos de precipitación de estaciones
+  meteorológicas locales para identificar tendencias y desviaciones. Las proyecciones climáticas futuras se modelaron utilizando escenarios del IPCC para predecir cambios en las precipitaciones hasta 2040,
+  2070 y 2100.
+categories:
+- Sesión 16. Recursos hídricos y ordenamiento territorial
+---
+
+El cambio climático tiene un impacto significativo en la seguridad hídrica de las zonas costeras, afectando particularmente a las comunidades ubicadas en Juan de Acosta, Tubará y Puerto Colombia en la costa colombiana. Estos municipios experimentan mayores riesgos climáticos como inundaciones, sequías y erosión debido a su ubicación costera y clima tropical seco. La falta de fuentes de agua sustanciales obliga a los residentes a depender de pozos y, ocasionalmente, de la recolección de agua de lluvia, lo que enfatiza la necesidad urgente de una gobernanza climática efectiva y estrategias sólidas de adaptación y mitigación. Esta necesidad se acentúa aún más por la participación limitada de la sociedad civil y la insuficiencia de los marcos públicos para integrar acciones climáticas efectivas. Este estudio adoptó un enfoque multidimensional para analizar el impacto del cambio climático en los patrones de precipitación y la seguridad hídrica. Inicialmente analizamos datos históricos de precipitación de estaciones meteorológicas locales para identificar tendencias y desviaciones. Las proyecciones climáticas futuras se modelaron utilizando escenarios del IPCC para predecir cambios en las precipitaciones hasta 2040, 2070 y 2100.
+
+La metodología también implica el uso del Modelo de Gestión de Aguas Pluviales (SWMM) de la EPA para simular los impactos hidrológicos y la cantidad de agua potencialmente disponible en varios escenarios climáticos. Esto incluyó el modelado de la escorrentía de aguas pluviales y la evaluación de las capacidades de almacenamiento en posibles eventos futuros de precipitación. Las simulaciones apuntaron a identificar y proponer soluciones personalizadas de recolección de agua de lluvia para garantizar un acceso sostenible al agua. La efectividad posterior a la implementación de estos sistemas también se evaluó comparando escenarios reales y futuros (antes y después de la ejecución del proyecto), ajustados a la variabilidad climática observada. Los resultados confirmaron que la recolección de agua de lluvia mejora significativamente la seguridad hídrica, proporcionando un suministro estable de agua potable durante períodos críticos. Esta investigación ofrece un modelo valioso para comunidades costeras afectadas de manera similar, destacando la necesidad de una adaptación proactiva de la infraestructura para abordar los desafíos hídricos futuros.

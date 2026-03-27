@@ -1,0 +1,25 @@
+---
+title: 'Preparación Inicial ante Tsunamis en el Golfo de Urabá mediante un Proceso de Educación Ambiental: Sapzurro, Chocó Caribe (Colombia), La Miel (Panamá) y Turbo, Antioquia (Colombia).'
+author:
+- name: Carlos A. Ríos-Uribe
+  affiliations:
+  - Doctor en Ciencias Ambientales con énfasis en Educación Ambiental, Profesor Asociado, Facultad de Educación, Universidad de Antioquia, Medellín, Colombia.
+  corresponding: true
+  email: andres.rios@udea.edu.co
+- name: Ph.D. ^1 ^
+  affiliations:
+  - Doctor en Ciencias Ambientales con énfasis en Educación Ambiental, Profesor Asociado, Facultad de Educación, Universidad de Antioquia, Medellín, Colombia.
+keywords:
+- Preparación ante Tsunamis
+- Educación Ambiental
+- Pedagogía Crítica de Paulo Freire
+- Optimismo Transformador
+abstract: La preparación ante tsunamis debe considerar procesos de educación ambiental con las comunidades rurales costeras de Colombia y Panamá, en ambas costas del caribe y pacífico latinoamericano. Fortalecer
+  la participación de la comunidad costera es primordial para la preparación ante tsunamis y amenazas naturales. Se describe el proceso inicial de educación ambiental para la preparación ante tsunamis en
+  Sapzurro (Colombia), La Miel (Panamá) y Turbo (Colombia). La educación ambiental con una perspectiva optimista transformadora desde la pedagogía crítica de Paulo Freire contribuye a la preparación ante
+  tsunamis. Fortalecer a la comunidad es nuestra meta.
+categories:
+- Sesión 6. Comunicación y educación en DRM
+---
+
+La preparación ante tsunamis debe considerar procesos de educación ambiental con las comunidades rurales costeras de Colombia y Panamá, en ambas costas del caribe y pacífico latinoamericano. Fortalecer la participación de la comunidad costera es primordial para la preparación ante tsunamis y amenazas naturales. Se describe el proceso inicial de educación ambiental para la preparación ante tsunamis en Sapzurro (Colombia), La Miel (Panamá) y Turbo (Colombia). La educación ambiental con una perspectiva optimista transformadora desde la pedagogía crítica de Paulo Freire contribuye a la preparación ante tsunamis. Fortalecer a la comunidad es nuestra meta.

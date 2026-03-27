@@ -1,0 +1,21 @@
+---
+title: "Índice de contribuciones"
+listing:
+  - id: todas-las-charlas
+    type: table
+    categories: true
+    contents:
+      - sesiones/sesion-*/charla-*/index.qmd
+      - sesiones/especiales/charla-*/index.qmd
+    fields: [categories, title, author]
+    field-display-names:
+      categories: "Sesión"
+      author: "Autor(es)"
+    sort: "categories"
+    sort-ui: [categories, title, author]
+    filter-ui: [categories, title, author]
+    page-size: 50
+---
+
+::: {#todas-las-charlas}
+:::

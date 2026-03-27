@@ -1,0 +1,25 @@
+---
+title: 'Colombia Resiliente: Preparación y Acción anticipatoria ante el Fenómeno El Niño e implementación de la Red Nacional de Brigadas Forestales -- Jairo Barcenas -'
+author:
+- name: Jairo Bárcenas
+  affiliations:
+  - PNUD, Bogotá, Colombia. Hugo Mármol
+- name: Hugo Mármol
+  affiliations:
+  - MINAMBIENTE, Bogotá, Colombia. Alexander Figueroa
+- name: Alexander Figueroa
+  affiliations:
+  - PNUD, Bogotá, Colombia. Hector Florez
+- name: Hector Florez
+  affiliations:
+  - PNUD, Bogotá, Colombia. Hugo Mármol
+keywords:
+- Fenómeno ENOS
+- resiliencia territorial
+- brigadas forestales
+- incendios forestales
+categories:
+- Sesión 13. Iniciativas para comunidades resilientes
+---
+
+

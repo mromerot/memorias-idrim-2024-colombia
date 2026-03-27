@@ -1,0 +1,250 @@
+project:
+  type: book
+  output-dir: _book
+book:
+  title: Memorias de la 14° Conferencia Internacional IDRIM
+  subtitle: Comunidades Resilientes a los Desastres por la Vida
+  date: '2025-02-01'
+  language: es
+  author:
+  - Ana Milena Prada
+  - Ana María Cruz
+  - María Camila Suárez Paba
+  - Mauricio Romero Torres
+  - Luisa Cadena
+  - Diana Mancera
+  chapters:
+  - index.qmd
+  - introduccion.qmd
+  - indice.qmd
+  - part: Sesión 1. Justicia climática, cambio climático y riesgos emergentes
+    chapters:
+    - sesiones/sesion-01/charla-01/index.qmd
+    - sesiones/sesion-01/charla-02/index.qmd
+    - sesiones/sesion-01/charla-03/index.qmd
+    - sesiones/sesion-01/charla-04/index.qmd
+    - sesiones/sesion-01/charla-05/index.qmd
+    - sesiones/sesion-01/charla-06/index.qmd
+  - part: Sesión 2. Comunicación y educación en GRD
+    chapters:
+    - sesiones/sesion-02/charla-01/index.qmd
+    - sesiones/sesion-02/charla-02/index.qmd
+    - sesiones/sesion-02/charla-03/index.qmd
+    - sesiones/sesion-02/charla-04/index.qmd
+    - sesiones/sesion-02/charla-05/index.qmd
+    - sesiones/sesion-02/charla-06/index.qmd
+  - part: Sesión 3. Explorando las amenazas marino costeras
+    chapters:
+    - sesiones/sesion-03/charla-01/index.qmd
+    - sesiones/sesion-03/charla-02/index.qmd
+    - sesiones/sesion-03/charla-03/index.qmd
+    - sesiones/sesion-03/charla-04/index.qmd
+    - sesiones/sesion-03/charla-05/index.qmd
+    - sesiones/sesion-03/charla-06/index.qmd
+    - sesiones/sesion-03/charla-07/index.qmd
+  - part: Sesión 4. Percepción del riesgo, comportamiento humano y cultura
+    chapters:
+    - sesiones/sesion-04/charla-01/index.qmd
+    - sesiones/sesion-04/charla-02/index.qmd
+    - sesiones/sesion-04/charla-03/index.qmd
+    - sesiones/sesion-04/charla-04/index.qmd
+    - sesiones/sesion-04/charla-05/index.qmd
+  - part: Sesión 5. Modelado y pronóstico de geoamenazas
+    chapters:
+    - sesiones/sesion-05/charla-01/index.qmd
+    - sesiones/sesion-05/charla-02/index.qmd
+    - sesiones/sesion-05/charla-03/index.qmd
+    - sesiones/sesion-05/charla-04/index.qmd
+    - sesiones/sesion-05/charla-05/index.qmd
+    - sesiones/sesion-05/charla-06/index.qmd
+  - part: Sesión 6. Comunicación y educación en DRM
+    chapters:
+    - sesiones/sesion-06/charla-01/index.qmd
+    - sesiones/sesion-06/charla-02/index.qmd
+    - sesiones/sesion-06/charla-03/index.qmd
+    - sesiones/sesion-06/charla-04/index.qmd
+    - sesiones/sesion-06/charla-05/index.qmd
+    - sesiones/sesion-06/charla-06/index.qmd
+  - part: Sesión 7. Identificación de riesgos, evaluación de riesgos y evaluación de riesgos sistémicos y complejos
+    chapters:
+    - sesiones/sesion-07/charla-01/index.qmd
+    - sesiones/sesion-07/charla-02/index.qmd
+    - sesiones/sesion-07/charla-03/index.qmd
+    - sesiones/sesion-07/charla-04/index.qmd
+    - sesiones/sesion-07/charla-05/index.qmd
+    - sesiones/sesion-07/charla-06/index.qmd
+  - part: Sesión 8. Percepción del riesgo, comportamiento humano y cultura
+    chapters:
+    - sesiones/sesion-08/charla-01/index.qmd
+    - sesiones/sesion-08/charla-02/index.qmd
+    - sesiones/sesion-08/charla-03/index.qmd
+    - sesiones/sesion-08/charla-04/index.qmd
+    - sesiones/sesion-08/charla-05/index.qmd
+    - sesiones/sesion-08/charla-06/index.qmd
+  - part: Sesión 9. Perspectivas de la Gestión de Riesgos Natech
+    chapters:
+    - sesiones/sesion-09/charla-01/index.qmd
+    - sesiones/sesion-09/charla-02/index.qmd
+    - sesiones/sesion-09/charla-03/index.qmd
+    - sesiones/sesion-09/charla-04/index.qmd
+    - sesiones/sesion-09/charla-05/index.qmd
+    - sesiones/sesion-09/charla-06/index.qmd
+  - part: Sesión 10. Inteligencia artificial, ciencia, tecnología e innovación
+    chapters:
+    - sesiones/sesion-10/charla-01/index.qmd
+    - sesiones/sesion-10/charla-02/index.qmd
+    - sesiones/sesion-10/charla-03/index.qmd
+    - sesiones/sesion-10/charla-04/index.qmd
+    - sesiones/sesion-10/charla-05/index.qmd
+    - sesiones/sesion-10/charla-06/index.qmd
+  - part: Sesión 11. Inundaciones, erosión fluvial y costera
+    chapters:
+    - sesiones/sesion-11/charla-01/index.qmd
+    - sesiones/sesion-11/charla-02/index.qmd
+    - sesiones/sesion-11/charla-03/index.qmd
+    - sesiones/sesion-11/charla-04/index.qmd
+    - sesiones/sesion-11/charla-05/index.qmd
+    - sesiones/sesion-11/charla-06/index.qmd
+  - part: Sesión 12. Percepción del riesgo, comportamiento humano y cultura
+    chapters:
+    - sesiones/sesion-12/charla-01/index.qmd
+    - sesiones/sesion-12/charla-02/index.qmd
+    - sesiones/sesion-12/charla-03/index.qmd
+    - sesiones/sesion-12/charla-04/index.qmd
+    - sesiones/sesion-12/charla-05/index.qmd
+  - part: Sesión 13. Iniciativas para comunidades resilientes
+    chapters:
+    - sesiones/sesion-13/charla-01/index.qmd
+    - sesiones/sesion-13/charla-02/index.qmd
+    - sesiones/sesion-13/charla-03/index.qmd
+    - sesiones/sesion-13/charla-04/index.qmd
+    - sesiones/sesion-13/charla-05/index.qmd
+    - sesiones/sesion-13/charla-06/index.qmd
+  - part: Sesión 14. Inteligencia artificial, ciencia, tecnología e innovación
+    chapters:
+    - sesiones/sesion-14/charla-01/index.qmd
+    - sesiones/sesion-14/charla-02/index.qmd
+    - sesiones/sesion-14/charla-03/index.qmd
+    - sesiones/sesion-14/charla-04/index.qmd
+    - sesiones/sesion-14/charla-05/index.qmd
+    - sesiones/sesion-14/charla-06/index.qmd
+  - part: Sesión 15. Identificación de riesgos en entornos rurales y urbanos
+    chapters:
+    - sesiones/sesion-15/charla-01/index.qmd
+    - sesiones/sesion-15/charla-02/index.qmd
+    - sesiones/sesion-15/charla-03/index.qmd
+    - sesiones/sesion-15/charla-04/index.qmd
+    - sesiones/sesion-15/charla-05/index.qmd
+  - part: Sesión 16. Recursos hídricos y ordenamiento territorial
+    chapters:
+    - sesiones/sesion-16/charla-01/index.qmd
+    - sesiones/sesion-16/charla-02/index.qmd
+    - sesiones/sesion-16/charla-03/index.qmd
+    - sesiones/sesion-16/charla-04/index.qmd
+    - sesiones/sesion-16/charla-05/index.qmd
+    - sesiones/sesion-16/charla-06/index.qmd
+  - part: Sesión 17. Enfoques diferenciales de la GRD
+    chapters:
+    - sesiones/sesion-17/charla-01/index.qmd
+    - sesiones/sesion-17/charla-02/index.qmd
+    - sesiones/sesion-17/charla-03/index.qmd
+    - sesiones/sesion-17/charla-04/index.qmd
+    - sesiones/sesion-17/charla-05/index.qmd
+    - sesiones/sesion-17/charla-06/index.qmd
+    - sesiones/sesion-17/charla-07/index.qmd
+  - part: Sesión 18. Aseguramiento y protección financiera para la GRD
+    chapters:
+    - sesiones/sesion-18/charla-01/index.qmd
+    - sesiones/sesion-18/charla-02/index.qmd
+    - sesiones/sesion-18/charla-03/index.qmd
+    - sesiones/sesion-18/charla-04/index.qmd
+    - sesiones/sesion-18/charla-05/index.qmd
+    - sesiones/sesion-18/charla-06/index.qmd
+    - sesiones/sesion-18/charla-07/index.qmd
+  - part: Sesión 19. Participación comunitaria y ONGs
+    chapters:
+    - sesiones/sesion-19/charla-01/index.qmd
+    - sesiones/sesion-19/charla-02/index.qmd
+    - sesiones/sesion-19/charla-03/index.qmd
+    - sesiones/sesion-19/charla-04/index.qmd
+    - sesiones/sesion-19/charla-05/index.qmd
+    - sesiones/sesion-19/charla-06/index.qmd
+    - sesiones/sesion-19/charla-07/index.qmd
+    - sesiones/sesion-19/charla-08/index.qmd
+  - part: Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+    chapters:
+    - sesiones/sesion-20/charla-01/index.qmd
+    - sesiones/sesion-20/charla-02/index.qmd
+    - sesiones/sesion-20/charla-03/index.qmd
+    - sesiones/sesion-20/charla-04/index.qmd
+    - sesiones/sesion-20/charla-05/index.qmd
+    - sesiones/sesion-20/charla-06/index.qmd
+    - sesiones/sesion-20/charla-07/index.qmd
+    - sesiones/sesion-20/charla-08/index.qmd
+  - part: Sesión 21. Amazonia, comunidades indígenas y locales
+    chapters:
+    - sesiones/sesion-21/charla-01/index.qmd
+    - sesiones/sesion-21/charla-02/index.qmd
+    - sesiones/sesion-21/charla-03/index.qmd
+    - sesiones/sesion-21/charla-04/index.qmd
+    - sesiones/sesion-21/charla-05/index.qmd
+    - sesiones/sesion-21/charla-06/index.qmd
+  - part: Sesión 22. Preparación para una respuesta a múltiples riesgos
+    chapters:
+    - sesiones/sesion-22/charla-01/index.qmd
+    - sesiones/sesion-22/charla-02/index.qmd
+    - sesiones/sesion-22/charla-03/index.qmd
+    - sesiones/sesion-22/charla-04/index.qmd
+    - sesiones/sesion-22/charla-05/index.qmd
+    - sesiones/sesion-22/charla-06/index.qmd
+  - part: Sesión 23. Gestión eficaz de recursos y coordinación logística
+    chapters:
+    - sesiones/sesion-23/charla-01/index.qmd
+    - sesiones/sesion-23/charla-02/index.qmd
+    - sesiones/sesion-23/charla-03/index.qmd
+    - sesiones/sesion-23/charla-04/index.qmd
+    - sesiones/sesion-23/charla-05/index.qmd
+  - part: Sesión 24. Sistemas de Alerta Temprana
+    chapters:
+    - sesiones/sesion-24/charla-01/index.qmd
+    - sesiones/sesion-24/charla-02/index.qmd
+    - sesiones/sesion-24/charla-03/index.qmd
+    - sesiones/sesion-24/charla-04/index.qmd
+    - sesiones/sesion-24/charla-05/index.qmd
+    - sesiones/sesion-24/charla-06/index.qmd
+  - part: Sesiones Especiales
+    chapters:
+    - sesiones/especiales/charla-01/index.qmd
+    - sesiones/especiales/charla-02/index.qmd
+    - sesiones/especiales/charla-03/index.qmd
+    - sesiones/especiales/charla-04/index.qmd
+    - sesiones/especiales/charla-05/index.qmd
+    - sesiones/especiales/charla-06/index.qmd
+    - sesiones/especiales/charla-07/index.qmd
+    - sesiones/especiales/charla-08/index.qmd
+    - sesiones/especiales/charla-09/index.qmd
+    - sesiones/especiales/charla-10/index.qmd
+    - sesiones/especiales/charla-11/index.qmd
+    - sesiones/especiales/charla-12/index.qmd
+    - sesiones/especiales/charla-13/index.qmd
+    - sesiones/especiales/charla-14/index.qmd
+    - sesiones/especiales/charla-15/index.qmd
+    - sesiones/especiales/charla-16/index.qmd
+sidebar:
+  collapse-level: 0
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 0
+    lang: es
+    number-sections: false
+    include-after-body: collapse-sidebar.html
+  pdf:
+    documentclass: scrreprt
+    papersize: letter
+    toc: true
+    lang: es
+    number-sections: false
+lang: es

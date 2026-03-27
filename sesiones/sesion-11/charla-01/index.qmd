@@ -1,0 +1,34 @@
+---
+title: Evaluación de la vulnerabilidad física ante inundaciones bajo escenarios de cambio del uso del suelo
+author:
+- name: Yelena Hernández-Atencia
+  affiliations:
+  - Ingeniera Civil, PhD en Planificación y Manejo Ambiental de Cuencas Hidrográficas, AQUA Grupo de investigación, Facultad de Ingeniería Civil, Universidad Cooperativa de Colombia,
+  corresponding: true
+  email: Yelena.hernandez@campusucc.edu.co
+- name: Luis E. Peña
+  affiliations:
+  - Ingeniero Civil, PhD en Ingeniería del agua y medioambiental y PhD en Planificación y Manejo Ambiental de Cuencas Hidrográficas, Programa de Ingeniería Civil, Facultad de ingeniería, Universidad de
+    Ibagué, Carrera 22 calle 67 B/Ambalá, 730001 Ibagué, Colombia
+- name: Jader Muñoz-Ramos
+  affiliations:
+  - Geólogo, PhD en Ciencias Agrícolas, Departamento de ingeniería, Facultad de Ingeniería Forestal, Universidad del Tolima, Barrio Santa Helena Parte Alta, 730006299 Ibagué, Colombia
+keywords:
+- Vulnerabilidad física
+- cambio del uso del suelo
+- evaluación de inundaciones
+- propiedades hidráulicas del suelo
+- comportamiento de escala
+abstract: 'Se presenta el trabajo de investigación realizado en la cuenca del río Combeima en Colombia (América del Sur), en el cual se evaluó el efecto de la evolución del uso del suelo sobre el régimen
+  de inundaciones y la vulnerabilidad física en el período 1976-2017 mediante modelación hidrológica e hidráulica y la implementación de metodologías para la evaluación de la vulnerabilidad a inundaciones.
+  Esto permitió ratificar informes relacionados con la afirmación de que los cambios en el uso del suelo producen efectos en el comportamiento de la escorrentía directa en las cuencas hidrográficas y su
+  relación con la vulnerabilidad de las estructuras cercanas a los cursos de agua superficiales. Para lograr los objetivos, el trabajo de investigación se centró en: i) evaluar el efecto de los cambios
+  de uso de suelo sobre la vulnerabilidad física en régimen de inundaciones; ii) proponer la evaluación de la vulnerabilidad física con base en la variación de propiedades del suelo (v); iii) probar el
+  comportamiento escalable de la vulnerabilidad física considerando Hu, CN y v como escala. Además, se probó el escalamiento amplio simple de vulnerabilidad. Los resultados indican que la incorporación
+  de variables relacionadas con el suelo y las propiedades hidráulicas de los arroyos mejoran la evaluación de la vulnerabilidad en escenarios de cambio de uso del suelo, por lo que dicho enfoque podría
+  ser útil para los planificadores en los procesos de toma de decisiones.'
+categories:
+- Sesión 11. Inundaciones, erosión fluvial y costera
+---
+
+Se presenta el trabajo de investigación realizado en la cuenca del río Combeima en Colombia (América del Sur), en el cual se evaluó el efecto de la evolución del uso del suelo sobre el régimen de inundaciones y la vulnerabilidad física en el período 1976-2017 mediante modelación hidrológica e hidráulica y la implementación de metodologías para la evaluación de la vulnerabilidad a inundaciones. Esto permitió ratificar informes relacionados con la afirmación de que los cambios en el uso del suelo producen efectos en el comportamiento de la escorrentía directa en las cuencas hidrográficas y su relación con la vulnerabilidad de las estructuras cercanas a los cursos de agua superficiales. Para lograr los objetivos, el trabajo de investigación se centró en: i) evaluar el efecto de los cambios de uso de suelo sobre la vulnerabilidad física en régimen de inundaciones; ii) proponer la evaluación de la vulnerabilidad física con base en la variación de propiedades del suelo (v); iii) probar el comportamiento escalable de la vulnerabilidad física considerando Hu, CN y v como escala. Además, se probó el escalamiento amplio simple de vulnerabilidad. Los resultados indican que la incorporación de variables relacionadas con el suelo y las propiedades hidráulicas de los arroyos mejoran la evaluación de la vulnerabilidad en escenarios de cambio de uso del suelo, por lo que dicho enfoque podría ser útil para los planificadores en los procesos de toma de decisiones.

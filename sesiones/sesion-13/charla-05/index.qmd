@@ -1,0 +1,15 @@
+---
+title: Promoción de la preparación y la resiliencia ante desastres mediante el desarrollo conjunto de herramientas de apoyo a las partes interesadas en el riesgo de desastres para gestionar los riesgos
+  sistémicos asociados a los riesgos múltiples
+author:
+- name: Cees van Westen
+- name: Funda Atun
+keywords:
+- Riesgos múltiples
+- Codesarrollo
+- Riesgo sistémico
+categories:
+- Sesión 13. Iniciativas para comunidades resilientes
+---
+
+
