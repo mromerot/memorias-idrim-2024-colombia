@@ -1,0 +1,55 @@
+---
+title: "Sesiones Especiales"
+---
+
+## Resúmenes
+
+1. [Introducción a la Herramienta Scorecard: Adenda para los Sistemas de Alerta Temprana Multi-Amenaza a nivel local](charla-01/index.qmd)
+2. [Voces Diversas e Inclusivas, un Futuro Resiliente: Participación de Mujeres, personas con movilidad reducida, comunidad LGBT y enfoque étnico en la Gestión del Riesgo de Desastres y cambio climático](charla-02/index.qmd)
+3. [Revelando la Dinámica del Riesgo con Cadenas de Impacto: una sesión práctica sobre análisis participativo de riesgos](charla-03/index.qmd)
+4. [Colombia Resiliente: Preparación y acción anticipatoria ante el fenómeno ENOS, implementación de la Red Nacional de Brigadas Forestales y Sistema ALERCOM](charla-04/index.qmd)
+5. [Continuación de la ciencia de la implementación: actualización del progreso y sugerencias prospectivas](charla-05/index.qmd)
+6. [Los beneficios y desafíos de la investigación y la colaboración transnacionales: estudios de caso desde el campo](charla-06/index.qmd)
+7. [De la gestión de riesgos Natech a la gobernanza de riesgos para construir resiliencia territorial](charla-07/index.qmd)
+8. [El impacto económico de los desastres en un entorno empresarial en rápida evolución](charla-08/index.qmd)
+9. [¿Estoy en riesgo si ocurre un sismo?](charla-09/index.qmd)
+10. [Comunidad con Ciencia - Cómo construir una mejor relación entre la sociedad y la ciencia para la reducción del riesgo de desastres](charla-10/index.qmd)
+11. [Alta Gerencia para la Gestión del Riesgo](charla-11/index.qmd)
+12. [Digitalización del mapeo participativo del riesgo basado en papel con la herramienta Sketch Map](charla-12/index.qmd)
+13. [DesignSafe.CI: ciberinfraestructura para avanzar en la cooperación de la investigación de amenazas naturales](charla-13/index.qmd)
+14. [Sistemas de Información para la Gestión del Riesgo de Desastres: Experiencias de Antioquia y Medellín](charla-14/index.qmd)
+15. [Qué es la vivienda resiliente con enfoque comunitario?](charla-15/index.qmd)
+16. [Mapeo colaborativo y redes multisectoriales: promovamos la gestión local inclusiva del riesgo de desastres](charla-16/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1orVE4sfhS78GFu5iXEWpaUb751UNYRzO/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1B9DmnDMXIEpVHeClfZoXSiFeOHJryHaw/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1dxFif-pWxEo_bOooEAh7J07tsq-iLazh/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1N-dhMWxhzBGyrcl2cwSLMPCTUgB9ZfVc/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1NXzYkfYz4UwLqGrwPfQjgds9lConyKny/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1ODGTdSFwWJQBwFXocIh2KkrjUvJnRPnN/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1hkZLnPPXrNGr7tvFVGdVhMlPxsVoiEDY/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1OHDGEXDuDd4q-cvgX6VZnJM1JJ2QcIyx/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1uYE53E4ncCsS2FNpRpUFEi1BVFuPqHFY/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1VUW3FpnLdrLlRuJA_rK_haTeFNYgexum/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1hyU5jagYO_pBZS3fuxrBGAYs7ZUyb5vT/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1gZLO8mPWTF6-KJlGeeG9XBDNFc0Y-b7l/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1RLjlKDgEgTzneGvsr3iU9zKbyPK_iLqX/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1vopVmToR1Biy4ON8YLr6uLorEoKjxRok/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/17rkQQuLdQMoDXE27Ll97HRpGCSfBlrh8/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

@@ -1,0 +1,17 @@
+---
+title: "Sesión 11. Inundaciones, erosión fluvial y costera"
+---
+
+## Resúmenes
+
+1. [Evaluación de la vulnerabilidad física ante inundaciones bajo escenarios de cambio del uso del suelo](charla-01/index.qmd)
+2. [El ascenso del nivel del mar y su vínculo con la erosión costera en el caribe costarricense](charla-02/index.qmd)
+3. [Vulnerabilidad ante inundaciones en una comunidad al norte de Colombia: El caso de Villa Fátima, Riohacha, La Guajira](charla-03/index.qmd)
+4. [Análisis de la cota de inundación en el litoral del municipio de Ciénaga-Magdalena, como elemento para control, administración y gestión del riesgo por inundación debida a la dinámica marina](charla-04/index.qmd)
+5. [Identificación y priorización de sectores con evidencias de erosión fluvial en el río Magdalena, Colombia](charla-05/index.qmd)
+6. [Caracterización de Amenazas de Inundación como soporte al ordenamiento territorial: Caso de estudio centros poblados Región Mojana Colombia](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1l9knfx7xI9rayZ9EuEBEohSgkg_VXMVi/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

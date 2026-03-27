@@ -1,0 +1,18 @@
+---
+title: "Sesión 17. Enfoques diferenciales de la GRD"
+---
+
+## Resúmenes
+
+1. [Villa B un escenario de impactos socio-ambientales tras las inundaciones en Sucre-Sucre 2010.](charla-01/index.qmd)
+2. [Concientización sobre el empoderamiento de las mujeres y el papel del teatro: un estudio en un pueblo de Bengala Occidental, India](charla-02/index.qmd)
+3. [El enfoque étnico diferencial como una estrategia para reducir el riesgo de desastres en Colombia](charla-03/index.qmd)
+4. [Conmemoración de desastres: dinámicas comunitarias y espacios conmemorativos El caso de la tormenta Xynthia en La Faute sur Mer, Francia](charla-04/index.qmd)
+5. [El papel de la organización de defensa civil en el desarrollo de la capacidad comunitaria durante la fase previa al desastre: un estudio de la India](charla-05/index.qmd)
+6. [Los desastres y su impacto en la violencia contra las mujeres: Un análisis correlacional para el caso peruano 2014 -- 2021](charla-06/index.qmd)
+7. [Mapas Comunitarios: una herramienta de participación en la Gestión de Riesgo de Desastres](charla-07/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/10l3xQkTQ7rdw13Y-KEN6FscfKK_nB8ih/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

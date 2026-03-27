@@ -1,0 +1,15 @@
+---
+title: "Sesión 24. Sistemas de Alerta Temprana"
+---
+
+## Resúmenes
+
+1. [Los SAT como un instrumento para la gestión del riesgo de desastres](charla-01/index.qmd)
+2. [Monitoreo participativo para fortalecer el sistema de alertas tempranas comunitarios ante inundaciones y crecientes súbitas en regiones montañosas. Caso de estudio quebrada Manizales, Manizales.](charla-02/index.qmd)
+3. [Sistema de alertas tempranas del departamento de Risaralda, componente técnico/tecnológico](charla-03/index.qmd)
+4. [Pronóstico, Evaluación y Mitigación del Riesgo por Tsunami en el Litoral Pacífico colombiano, Contribución a la Gestión del Riesgo](charla-04/index.qmd)
+5. [Sistema de Alerta Temprana para prevenir Inundaciones y Movimientos en Masa -- Proyecto Perú](charla-05/index.qmd)
+6. [Tsunami traspasando fronteras: lecciones aprendidas del tsunami de Hunga Tonga - Hunga Ha'apai de enero de 2022](charla-06/index.qmd)
+
+## Video de la sesión
+

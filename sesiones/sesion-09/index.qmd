@@ -1,0 +1,17 @@
+---
+title: "Sesión 9. Perspectivas de la Gestión de Riesgos Natech"
+---
+
+## Resúmenes
+
+1. [Apoyo a la gestión y gobernanza de riesgos de Natech en Colombia: cambios en la conciencia de riesgos mediante un enfoque de juego serio](charla-01/index.qmd)
+2. [Eventos Natech en Colombia, una revisión desde las bases de datos de ANLA y UNGRD](charla-02/index.qmd)
+3. [Modelado de la cadena de Monte Carlo-Markov para estimar el tiempo de inactividad industrial de los tanques de almacenamiento en eventos Natech inducidos por terremotos: un enfoque alternativo para](charla-03/index.qmd)
+4. [Modelo de vulnerabilidad eólica para componentes de plantas de refinería o instalaciones industriales: un estudio preliminar](charla-04/index.qmd)
+5. [Análisis de puntos críticos de riesgo de accidentes transfronterizos en estanques de relaves mediante SIG](charla-05/index.qmd)
+6. [El desarrollo de una metodología de evaluación de riesgos regionales para eventos Natech: en el caso de derrames de Baijiu provocados por terremotos](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1OehUqVwBZv9528RBp59olLBxoPMjRoLj/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

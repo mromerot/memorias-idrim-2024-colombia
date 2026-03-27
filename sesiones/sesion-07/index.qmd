@@ -1,0 +1,15 @@
+---
+title: "Sesión 7. Identificación de riesgos, evaluación de riesgos y evaluación de riesgos sistémicos y complejos"
+---
+
+## Resúmenes
+
+1. [La gestión del riesgo de desastres y su relación con medio ambiente, ordenamiento, cambio climático, continuidad de negocio, riesgo tecnológico en organizaciones de Colombia](charla-01/index.qmd)
+2. [Integración de los beneficios socioecológicos como valor agregado al enfoque actual de la evaluación y análisis del riesgo en países en desarrollo](charla-02/index.qmd)
+3. [Análisis determinístico y probabilístico de la acción del fuego en estructuras de acero con enfoque hacia la seguridad estructural](charla-03/index.qmd)
+4. [Herramientas para la gestión del riesgo químico en organizaciones de Colombia](charla-04/index.qmd)
+5. [Desentrañando las complejas interacciones entre los componentes de riesgo a través de la metodología de la cadena de impacto: una aplicación al estudio de caso de la tormenta Vaia](charla-05/index.qmd)
+6. [Evaluación estocástica de los riesgos de las cenizas volcánicas de las grandes erupciones del Sakurajima](charla-06/index.qmd)
+
+## Video de la sesión
+

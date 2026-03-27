@@ -1,0 +1,15 @@
+---
+title: "Sesión 8. Percepción del riesgo, comportamiento humano y cultura"
+---
+
+## Resúmenes
+
+1. [Percepción del riesgo y resiliencia comunitaria: desafíos y respuestas ante ciclones tropicales en la zona insular del caribe colombiano](charla-01/index.qmd)
+2. [Percepción del papel de las áreas protegidas naturales en la gestión del riesgo de desastres: Caso Parque Nacional Natural Chingaza](charla-02/index.qmd)
+3. [Índice de percepción y preparación ante el riesgo de desastres: herramientas para la reducción del riesgo de desastres y construcción de comunidades resilientes](charla-03/index.qmd)
+4. [Efectos del cambio climático y el Fenómeno del Niño en la productividad laboral en Colombia](charla-04/index.qmd)
+5. [La importancia de los estudios geocientíficos en la gestión del riesgo](charla-05/index.qmd)
+6. [Los estudios de riesgo volcánico en Colombia: Más allá de modelamientos matemáticos](charla-06/index.qmd)
+
+## Video de la sesión
+

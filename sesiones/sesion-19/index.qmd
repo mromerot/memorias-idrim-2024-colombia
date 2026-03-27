@@ -1,0 +1,19 @@
+---
+title: "Sesión 19. Participación comunitaria y ONGs"
+---
+
+## Resúmenes
+
+1. [Planificación Territorial, Gestión de Políticas Públicas y Agenda Urbana: resiliencia de las ciudades y sus territorios en el contexto del cambio climático y las vulnerabilidades socioambientales](charla-01/index.qmd)
+2. [Análisis de los datos de los simulacros de evacuación de tsunamis basados en nombres individuales desde perspectivas tanto cualitativas como cuantitativas](charla-02/index.qmd)
+3. [Participación comunitaria en la reducción del riesgo de desastres: perspectivas émicas y éticas](charla-03/index.qmd)
+4. [Perspectivas y prácticas de la juventud, una propuesta de cooperación para la educación sobre el conocimiento de la gestión del riesgo de desastres en Colombia](charla-04/index.qmd)
+5. [La gestión del riesgo de desastres, una estrategia fundamental en la gerencia de la sostenibilidad](charla-05/index.qmd)
+6. [Caracterización de la dinámica social relacionada a la ocurrencia de incendios forestales y aportes participativos para su reducción en el departamento de Vichada, Colombia](charla-06/index.qmd)
+7. [Gestión del conocimiento, prevención y reducción del riesgo a nivel veredal, utilizando herramientas S.I.G y acciones practicas a nivel de bioingeniería para la mitigación](charla-07/index.qmd)
+8. [La digitalización de la cartografía comunitaria con la herramienta Sketch Map Tool en los Análisis de Vulnerabilidades y Capacidades (AVCA) de la Cruz Roja Colombiana](charla-08/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1frEK-Wy02K2hZTOfxlNUszO15H7MeDUq/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

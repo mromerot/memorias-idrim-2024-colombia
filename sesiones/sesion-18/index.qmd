@@ -1,0 +1,18 @@
+---
+title: "Sesión 18. Aseguramiento y protección financiera para la GRD"
+---
+
+## Resúmenes
+
+1. [Un modelo simple de contrato de seguro contra pérdidas excesivas para un gobierno en un país propenso a desastres](charla-01/index.qmd)
+2. [Un análisis empírico sobre las medidas de financiación de riesgos y el proceso de recuperación empresarial tras un desastre](charla-02/index.qmd)
+3. [Definición de estrategias de transferencia del riesgo sísmico en municipios de Colombia](charla-03/index.qmd)
+4. [Gestión del riesgo climático soberano en países en desarrollo vulnerables Guía de apoyo inteligente para donantes y responsables de políticas](charla-04/index.qmd)
+5. [Estudio sobre el mecanismo de interferencia entre el riesgo integrado de múltiples peligros, la economía y la población basado en datos de múltiples fuentes](charla-05/index.qmd)
+6. [Metodología Regional de Resiliencia SURA](charla-06/index.qmd)
+7. [Estimación del impacto económico de la erupción del volcán Taal mediante el consumo de electricidad](charla-07/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Oh74rpegqfoCGNsAeCtWnMU0U0d4wzns/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

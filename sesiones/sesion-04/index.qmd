@@ -1,0 +1,14 @@
+---
+title: "Sesión 4. Percepción del riesgo, comportamiento humano y cultura"
+---
+
+## Resúmenes
+
+1. [Mejorando la comunicación sobre el riesgo de tsunami mediante la utilización de aplicaciones de mapas teniendo en cuenta los antecedentes de los residentes](charla-01/index.qmd)
+2. [Gobernanza colaborativa para gestionar los peligros del aumento del nivel del mar: un estudio de caso de turismo del País Vasco en España](charla-02/index.qmd)
+3. [El arte como plataforma para la comunicación, la educación y la concientización sobre los riesgos de desastres: desarrollo de un marco para respuestas a los desastres impulsadas por el arte](charla-03/index.qmd)
+4. [Comprendiendo los efectos del cambio climático en el Reino Unido: perspectivas extraídas de las encuestas de percepción pública](charla-04/index.qmd)
+5. [Relación entre la calidad de vida y la gestión del riesgo de desastres: réplica de los estudios de la Encuesta de Cambio Social de Taiwán en la región de Kinki, Japón](charla-05/index.qmd)
+
+## Video de la sesión
+

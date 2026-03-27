@@ -1,0 +1,14 @@
+---
+title: "Sesión 12. Percepción del riesgo, comportamiento humano y cultura"
+---
+
+## Resúmenes
+
+1. [Metodologías de diagnóstico comunitario para el fortalecimiento de la resiliencia ante inundaciones en Colombia -- caso de estudio proyecto RAI](charla-01/index.qmd)
+2. [Análisis de construcciones Histórico- culturales sobre amenazas socio-naturales y vulnerabilidades sociales. Elementos para la gestión del riesgo en Colombia](charla-02/index.qmd)
+3. [Viviendo bajo la sombra del volcán Galeras: percepción sociocultural del riesgo en la comunidad rural de Genoy (Pasto, Colombia)](charla-03/index.qmd)
+4. [Modelos de análisis de vulnerabilidad para la gestión integral del riesgo](charla-04/index.qmd)
+5. [Gestionando desastres en un contexto de conflicto armado: Lecciones históricas del caso colombiano](charla-05/index.qmd)
+
+## Video de la sesión
+

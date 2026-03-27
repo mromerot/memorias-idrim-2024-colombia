@@ -1,0 +1,18 @@
+---
+title: "Sesión 3. Explorando las amenazas marino costeras"
+---
+
+## Resúmenes
+
+1. [Explorando los procesos morfológicos y las amenazas que determinan los riesgos y la resiliencia a lo largo de la barrera costera de Salamanca (Colombia).](charla-01/index.qmd)
+2. [Posible inestabilidad del talud y plataforma continentales frente a](charla-02/index.qmd)
+3. [Cartagena de Indias - Bolívar, Colombia](charla-03/index.qmd)
+4. [El papel de los modelos de catástrofes como el Modelo Público de Pérdidas por Huracanes de Florida para garantizar comunidades resilientes a los desastres](charla-04/index.qmd)
+5. [Avances y desafíos en el pronóstico preciso de marejada por tormenta en San Andrés y Providencia](charla-05/index.qmd)
+6. [Evaluación de modelos numéricos para simular inundaciones costeras inducidas por tormentas en áreas sagradas para los datos. Estudio de caso: Belice](charla-06/index.qmd)
+7. [Predicción de marejada de tormenta en San Andrés y Providencia: integración de SIPSEM en estrategias de gestión de riesgo](charla-07/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Lj3UyvT073UHul4SATozGvsTtzX-KPTz/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

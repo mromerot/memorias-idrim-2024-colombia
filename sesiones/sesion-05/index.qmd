@@ -1,0 +1,17 @@
+---
+title: "Sesión 5. Modelado y pronóstico de geoamenazas"
+---
+
+## Resúmenes
+
+1. [Sistema de Monitoreo para Escenarios de Riesgo por movimientos en masa SIMER](charla-01/index.qmd)
+2. [Implementación de un sistema de clasificación geotécnico en la evaluación de riesgo por movimientos en masa. Estudio de caso: tramo vial de conexión rural en el Municipio de Carepa, Antioquia](charla-02/index.qmd)
+3. [Propuesta metodológica para la evaluación de la vulnerabilidad sísmica en municipios de bajos recursos](charla-03/index.qmd)
+4. [Ocurrencia e impacto social de los desastres: caso de los deslizamientos en México](charla-04/index.qmd)
+5. [Evaluación de la Incidencia de las Coberturas del Suelo y los Materiales Geológicos, en la Dinámica Erosiva de la Subcuenca de la Quebrada Combia, Pereira, Risaralda](charla-05/index.qmd)
+6. [Instrumentos multirriesgo para la respuesta a emergencias: una evaluación multiamenaza y multirriesgo de la Reserva Europea de Solidaridad y Ayuda de Emergencia](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1ufxRO9-7ucTTreyDTR_xg6YozzfsnMww/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

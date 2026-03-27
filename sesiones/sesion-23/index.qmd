@@ -1,0 +1,14 @@
+---
+title: "Sesión 23. Gestión eficaz de recursos y coordinación logística"
+---
+
+## Resúmenes
+
+1. [Construcción de modelos para desarrollar contramedidas efectivas contra los riesgos de la cadena de suministro en la economía global: un caso de la industria automotriz japonesa](charla-01/index.qmd)
+2. [Las verdades al aplicar los planes de emergencia y contingencia, los enigmas del valor presupuestal emergencia por desabastecimiento de agua en la ciudad de Yopal.](charla-02/index.qmd)
+3. [Modelado de la dinámica del suministro de alimentos en campamentos de refugiados en situaciones de desastre: un enfoque de dinámica de sistemas](charla-03/index.qmd)
+4. [Articulación de planes empresariales de emergencia con los Comités de Ayuda Mutua, una alternativa eficaz para la gobernanza en gestión de riesgos en los micro territorios.](charla-04/index.qmd)
+5. [Implementación de Estrategias de Prevención y Respuesta a Incendios Forestales de Interfaz en el Cerro Quitasol de Bello - Antioquia](charla-05/index.qmd)
+
+## Video de la sesión
+

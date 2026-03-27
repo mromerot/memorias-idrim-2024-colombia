@@ -1,0 +1,15 @@
+---
+title: "Sesión 22. Preparación para una respuesta a múltiples riesgos"
+---
+
+## Resúmenes
+
+1. [¿Qué impide a las personas evacuar de forma temprana? El caso de la cuenca del río Licungo, Mozambique](charla-01/index.qmd)
+2. [Clasificación teórica para la estrategia de continuidad de negocio: Consideración de las empresas japonesas](charla-02/index.qmd)
+3. [Conocer los riesgos de mi territorio me permite salvaguardar vidas; Oi, oi, el tsunami puede venir](charla-03/index.qmd)
+4. [De lo local a lo nacional; de la respuesta a la emergencia y de la rehabilitación eficaz](charla-04/index.qmd)
+5. [La recurrencia de los ines del mundo\ para los grupos marginados en contextos de desastre climático y recuperación: perspectivas sobre la gentrificación y los desplazamientos](charla-05/index.qmd)
+6. [Impactos económicos de los desastres complejos que afectan a los puertos gemelos de Los Ángeles y Long Beach](charla-06/index.qmd)
+
+## Video de la sesión
+

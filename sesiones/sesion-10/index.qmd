@@ -1,0 +1,17 @@
+---
+title: "Sesión 10. Inteligencia artificial, ciencia, tecnología e innovación"
+---
+
+## Resúmenes
+
+1. [Otro proyecto de la era temprana de la IA: visualización de áreas de refugio después de un desastre y exploración de necesidades y estándares con imágenes generadas por IA](charla-01/index.qmd)
+2. [Mapeo de los servicios climáticos para la gestión del riesgo de desastres: una revisión sistemática y brechas en la investigación desde una perspectiva de proceso de políticas](charla-02/index.qmd)
+3. [Aplicaciones de Sensores Remotos de acceso libre en la Gestión del Riesgo de Desastres](charla-03/index.qmd)
+4. [Uso de tecnologías geoespaciales nuevas y emergentes para mejorar las estadísticas oficiales en Colombia y su potencial uso en la gestión de riesgos de desastres](charla-04/index.qmd)
+5. [Nuevas metodologías para la gestión del riesgo de desastres en estructuras indispensables del departamento de Sucre](charla-05/index.qmd)
+6. [Metodología para estimar daño por terremotos en edificaciones usando drones](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Q2cfzJ5Je-V7EfcPttDuT_wbOAYzLDCa/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

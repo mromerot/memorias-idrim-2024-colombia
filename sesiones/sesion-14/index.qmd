@@ -1,0 +1,17 @@
+---
+title: "Sesión 14. Inteligencia artificial, ciencia, tecnología e innovación"
+---
+
+## Resúmenes
+
+1. [Diseño sistema de alerta temprana de incendios de cobertura vegetal en el municipio de Valledupar utilizando sensores remotos.](charla-01/index.qmd)
+2. [Vulcanismo en centro y suroeste de Colombia: origen, evolución, amenaza, suelos volcánicos y geoturismo](charla-02/index.qmd)
+3. [La ciencia de la implementación para la reducción del riesgo de desastres: una revisión crítica](charla-03/index.qmd)
+4. [Digitalización de la cartografía participativa en la gestión integral del riesgo de desastres: potencial y limitaciones de la herramienta Sketch Map para organizaciones humanitarias](charla-04/index.qmd)
+5. [Sistema híbrido de monitoreo para la evaluación de efectos térmicos en vigas de puentes de concreto](charla-05/index.qmd)
+6. [Tecnologías para la gestión comunitaria del riesgo de desastres](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1PNUtht54r_PgbdokCrYkBnRW1HH9v7cd/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

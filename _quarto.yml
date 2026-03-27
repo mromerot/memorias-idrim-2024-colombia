@@ -17,7 +17,7 @@ book:
   - index.qmd
   - introduccion.qmd
   - indice.qmd
-  - part: Sesión 1. Justicia climática, cambio climático y riesgos emergentes
+  - part: sesiones/sesion-01/index.qmd
     chapters:
     - sesiones/sesion-01/charla-01/index.qmd
     - sesiones/sesion-01/charla-02/index.qmd
@@ -25,7 +25,7 @@ book:
     - sesiones/sesion-01/charla-04/index.qmd
     - sesiones/sesion-01/charla-05/index.qmd
     - sesiones/sesion-01/charla-06/index.qmd
-  - part: Sesión 2. Comunicación y educación en GRD
+  - part: sesiones/sesion-02/index.qmd
     chapters:
     - sesiones/sesion-02/charla-01/index.qmd
     - sesiones/sesion-02/charla-02/index.qmd
@@ -33,7 +33,7 @@ book:
     - sesiones/sesion-02/charla-04/index.qmd
     - sesiones/sesion-02/charla-05/index.qmd
     - sesiones/sesion-02/charla-06/index.qmd
-  - part: Sesión 3. Explorando las amenazas marino costeras
+  - part: sesiones/sesion-03/index.qmd
     chapters:
     - sesiones/sesion-03/charla-01/index.qmd
     - sesiones/sesion-03/charla-02/index.qmd
@@ -42,14 +42,14 @@ book:
     - sesiones/sesion-03/charla-05/index.qmd
     - sesiones/sesion-03/charla-06/index.qmd
     - sesiones/sesion-03/charla-07/index.qmd
-  - part: Sesión 4. Percepción del riesgo, comportamiento humano y cultura
+  - part: sesiones/sesion-04/index.qmd
     chapters:
     - sesiones/sesion-04/charla-01/index.qmd
     - sesiones/sesion-04/charla-02/index.qmd
     - sesiones/sesion-04/charla-03/index.qmd
     - sesiones/sesion-04/charla-04/index.qmd
     - sesiones/sesion-04/charla-05/index.qmd
-  - part: Sesión 5. Modelado y pronóstico de geoamenazas
+  - part: sesiones/sesion-05/index.qmd
     chapters:
     - sesiones/sesion-05/charla-01/index.qmd
     - sesiones/sesion-05/charla-02/index.qmd
@@ -57,7 +57,7 @@ book:
     - sesiones/sesion-05/charla-04/index.qmd
     - sesiones/sesion-05/charla-05/index.qmd
     - sesiones/sesion-05/charla-06/index.qmd
-  - part: Sesión 6. Comunicación y educación en DRM
+  - part: sesiones/sesion-06/index.qmd
     chapters:
     - sesiones/sesion-06/charla-01/index.qmd
     - sesiones/sesion-06/charla-02/index.qmd
@@ -65,7 +65,7 @@ book:
     - sesiones/sesion-06/charla-04/index.qmd
     - sesiones/sesion-06/charla-05/index.qmd
     - sesiones/sesion-06/charla-06/index.qmd
-  - part: Sesión 7. Identificación de riesgos, evaluación de riesgos y evaluación de riesgos sistémicos y complejos
+  - part: sesiones/sesion-07/index.qmd
     chapters:
     - sesiones/sesion-07/charla-01/index.qmd
     - sesiones/sesion-07/charla-02/index.qmd
@@ -73,7 +73,7 @@ book:
     - sesiones/sesion-07/charla-04/index.qmd
     - sesiones/sesion-07/charla-05/index.qmd
     - sesiones/sesion-07/charla-06/index.qmd
-  - part: Sesión 8. Percepción del riesgo, comportamiento humano y cultura
+  - part: sesiones/sesion-08/index.qmd
     chapters:
     - sesiones/sesion-08/charla-01/index.qmd
     - sesiones/sesion-08/charla-02/index.qmd
@@ -81,7 +81,7 @@ book:
     - sesiones/sesion-08/charla-04/index.qmd
     - sesiones/sesion-08/charla-05/index.qmd
     - sesiones/sesion-08/charla-06/index.qmd
-  - part: Sesión 9. Perspectivas de la Gestión de Riesgos Natech
+  - part: sesiones/sesion-09/index.qmd
     chapters:
     - sesiones/sesion-09/charla-01/index.qmd
     - sesiones/sesion-09/charla-02/index.qmd
@@ -89,7 +89,7 @@ book:
     - sesiones/sesion-09/charla-04/index.qmd
     - sesiones/sesion-09/charla-05/index.qmd
     - sesiones/sesion-09/charla-06/index.qmd
-  - part: Sesión 10. Inteligencia artificial, ciencia, tecnología e innovación
+  - part: sesiones/sesion-10/index.qmd
     chapters:
     - sesiones/sesion-10/charla-01/index.qmd
     - sesiones/sesion-10/charla-02/index.qmd
@@ -97,7 +97,7 @@ book:
     - sesiones/sesion-10/charla-04/index.qmd
     - sesiones/sesion-10/charla-05/index.qmd
     - sesiones/sesion-10/charla-06/index.qmd
-  - part: Sesión 11. Inundaciones, erosión fluvial y costera
+  - part: sesiones/sesion-11/index.qmd
     chapters:
     - sesiones/sesion-11/charla-01/index.qmd
     - sesiones/sesion-11/charla-02/index.qmd
@@ -105,14 +105,14 @@ book:
     - sesiones/sesion-11/charla-04/index.qmd
     - sesiones/sesion-11/charla-05/index.qmd
     - sesiones/sesion-11/charla-06/index.qmd
-  - part: Sesión 12. Percepción del riesgo, comportamiento humano y cultura
+  - part: sesiones/sesion-12/index.qmd
     chapters:
     - sesiones/sesion-12/charla-01/index.qmd
     - sesiones/sesion-12/charla-02/index.qmd
     - sesiones/sesion-12/charla-03/index.qmd
     - sesiones/sesion-12/charla-04/index.qmd
     - sesiones/sesion-12/charla-05/index.qmd
-  - part: Sesión 13. Iniciativas para comunidades resilientes
+  - part: sesiones/sesion-13/index.qmd
     chapters:
     - sesiones/sesion-13/charla-01/index.qmd
     - sesiones/sesion-13/charla-02/index.qmd
@@ -120,7 +120,7 @@ book:
     - sesiones/sesion-13/charla-04/index.qmd
     - sesiones/sesion-13/charla-05/index.qmd
     - sesiones/sesion-13/charla-06/index.qmd
-  - part: Sesión 14. Inteligencia artificial, ciencia, tecnología e innovación
+  - part: sesiones/sesion-14/index.qmd
     chapters:
     - sesiones/sesion-14/charla-01/index.qmd
     - sesiones/sesion-14/charla-02/index.qmd
@@ -128,14 +128,14 @@ book:
     - sesiones/sesion-14/charla-04/index.qmd
     - sesiones/sesion-14/charla-05/index.qmd
     - sesiones/sesion-14/charla-06/index.qmd
-  - part: Sesión 15. Identificación de riesgos en entornos rurales y urbanos
+  - part: sesiones/sesion-15/index.qmd
     chapters:
     - sesiones/sesion-15/charla-01/index.qmd
     - sesiones/sesion-15/charla-02/index.qmd
     - sesiones/sesion-15/charla-03/index.qmd
     - sesiones/sesion-15/charla-04/index.qmd
     - sesiones/sesion-15/charla-05/index.qmd
-  - part: Sesión 16. Recursos hídricos y ordenamiento territorial
+  - part: sesiones/sesion-16/index.qmd
     chapters:
     - sesiones/sesion-16/charla-01/index.qmd
     - sesiones/sesion-16/charla-02/index.qmd
@@ -143,7 +143,7 @@ book:
     - sesiones/sesion-16/charla-04/index.qmd
     - sesiones/sesion-16/charla-05/index.qmd
     - sesiones/sesion-16/charla-06/index.qmd
-  - part: Sesión 17. Enfoques diferenciales de la GRD
+  - part: sesiones/sesion-17/index.qmd
     chapters:
     - sesiones/sesion-17/charla-01/index.qmd
     - sesiones/sesion-17/charla-02/index.qmd
@@ -152,7 +152,7 @@ book:
     - sesiones/sesion-17/charla-05/index.qmd
     - sesiones/sesion-17/charla-06/index.qmd
     - sesiones/sesion-17/charla-07/index.qmd
-  - part: Sesión 18. Aseguramiento y protección financiera para la GRD
+  - part: sesiones/sesion-18/index.qmd
     chapters:
     - sesiones/sesion-18/charla-01/index.qmd
     - sesiones/sesion-18/charla-02/index.qmd
@@ -161,7 +161,7 @@ book:
     - sesiones/sesion-18/charla-05/index.qmd
     - sesiones/sesion-18/charla-06/index.qmd
     - sesiones/sesion-18/charla-07/index.qmd
-  - part: Sesión 19. Participación comunitaria y ONGs
+  - part: sesiones/sesion-19/index.qmd
     chapters:
     - sesiones/sesion-19/charla-01/index.qmd
     - sesiones/sesion-19/charla-02/index.qmd
@@ -171,7 +171,7 @@ book:
     - sesiones/sesion-19/charla-06/index.qmd
     - sesiones/sesion-19/charla-07/index.qmd
     - sesiones/sesion-19/charla-08/index.qmd
-  - part: Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+  - part: sesiones/sesion-20/index.qmd
     chapters:
     - sesiones/sesion-20/charla-01/index.qmd
     - sesiones/sesion-20/charla-02/index.qmd
@@ -189,7 +189,7 @@ book:
     - sesiones/sesion-21/charla-04/index.qmd
     - sesiones/sesion-21/charla-05/index.qmd
     - sesiones/sesion-21/charla-06/index.qmd
-  - part: Sesión 22. Preparación para una respuesta a múltiples riesgos
+  - part: sesiones/sesion-22/index.qmd
     chapters:
     - sesiones/sesion-22/charla-01/index.qmd
     - sesiones/sesion-22/charla-02/index.qmd
@@ -197,14 +197,14 @@ book:
     - sesiones/sesion-22/charla-04/index.qmd
     - sesiones/sesion-22/charla-05/index.qmd
     - sesiones/sesion-22/charla-06/index.qmd
-  - part: Sesión 23. Gestión eficaz de recursos y coordinación logística
+  - part: sesiones/sesion-23/index.qmd
     chapters:
     - sesiones/sesion-23/charla-01/index.qmd
     - sesiones/sesion-23/charla-02/index.qmd
     - sesiones/sesion-23/charla-03/index.qmd
     - sesiones/sesion-23/charla-04/index.qmd
     - sesiones/sesion-23/charla-05/index.qmd
-  - part: Sesión 24. Sistemas de Alerta Temprana
+  - part: sesiones/sesion-24/index.qmd
     chapters:
     - sesiones/sesion-24/charla-01/index.qmd
     - sesiones/sesion-24/charla-02/index.qmd
@@ -212,7 +212,7 @@ book:
     - sesiones/sesion-24/charla-04/index.qmd
     - sesiones/sesion-24/charla-05/index.qmd
     - sesiones/sesion-24/charla-06/index.qmd
-  - part: Sesiones Especiales
+  - part: sesiones/especiales/index.qmd
     chapters:
     - sesiones/especiales/charla-01/index.qmd
     - sesiones/especiales/charla-02/index.qmd

@@ -1,0 +1,15 @@
+---
+title: "Sesión 13. Iniciativas para comunidades resilientes"
+---
+
+## Resúmenes
+
+1. [Fortaleciendo la resiliencia en la educación superior: un enfoque para la región de las Américas y el Caribe](charla-01/index.qmd)
+2. [Experiencias en la construcción de resiliencia y acciones sostenibles desde la Institución Universitaria Colegio Mayor de Antioquia](charla-02/index.qmd)
+3. [Reflexiones sobre la medición de la resiliencia ante desastres a escala comunitaria: lecciones de la aplicación de la herramienta de medición de la resiliencia ante inundaciones y clima](charla-03/index.qmd)
+4. [Evaluación multitemporal de la resiliencia comunitaria ante desastres por riesgo tecnológico en la comuna 10 del municipio de Dosquebradas](charla-04/index.qmd)
+5. [Promoción de la preparación y la resiliencia ante desastres mediante el desarrollo conjunto de herramientas de apoyo a las partes interesadas en el riesgo de desastres para gestionar los riesgos](charla-05/index.qmd)
+6. [Colombia Resiliente: Preparación y Acción anticipatoria ante el Fenómeno El Niño e implementación de la Red Nacional de Brigadas Forestales -- Jairo Barcenas -](charla-06/index.qmd)
+
+## Video de la sesión
+

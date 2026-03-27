@@ -1,0 +1,16 @@
+---
+title: "Sesión 15. Identificación de riesgos en entornos rurales y urbanos"
+---
+
+## Resúmenes
+
+1. [Modelo Nacional de Riesgo Sísmico de Colombia](charla-01/index.qmd)
+2. [Uso de Metodologías Cualitativas para el Conocimiento del Riesgo en la Infraestructura Vial](charla-02/index.qmd)
+3. [Green Digital Transition: Integrating Carbon Neutrality for Sustainable Tourism Development](charla-03/index.qmd)
+4. [Evaluación de la respuesta de un sistema hospitalario ante desastres](charla-04/index.qmd)
+5. [Monitoreo de variables geofísicas (registros sísmicos, eléctricos, magnéticos y de gases) en las sedes andinas y de presencia nacional de la Universidad Nacional de Colombia (UNAL) mediante la Red](charla-05/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1N_-_mSfLrUelp-b3fIB1oGARomv63ZFX/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

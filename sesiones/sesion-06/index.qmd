@@ -1,0 +1,17 @@
+---
+title: "Sesión 6. Comunicación y educación en DRM"
+---
+
+## Resúmenes
+
+1. [Preparación Inicial ante Tsunamis en el Golfo de Urabá mediante un Proceso de Educación Ambiental: Sapzurro, Chocó Caribe (Colombia), La Miel (Panamá) y Turbo, Antioquia (Colombia).](charla-01/index.qmd)
+2. [Investigación-acción utilizando la herramienta de planificación de estrategias comunitarias para la evacuación en caso de tsunami](charla-02/index.qmd)
+3. [Preparación para la vida cotidiana como aprendizaje integrado](charla-03/index.qmd)
+4. [Evaluación del riesgo sísmico para la ciudad de Santiago de Cali, Colombia](charla-04/index.qmd)
+5. [Plan Nacional de Gestión del Riesgo de Desastres (PNGRD), una estrategia de desarrollo territorial y nacional durante los años 2015-2030](charla-05/index.qmd)
+6. [La incorporación de los jóvenes en la mitigación del riesgo de desastres en las Américas y el caribe](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1Wpt2Uc3B3CGTV7-n_HT7-64U9BPim9P4/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+

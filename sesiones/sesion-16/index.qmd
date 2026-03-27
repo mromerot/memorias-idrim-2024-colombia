@@ -1,0 +1,19 @@
+---
+title: "Sesión 16. Recursos hídricos y ordenamiento territorial"
+---
+
+## Resúmenes
+
+1. [Evaluación de la vulnerabilidad al cambio climático y estrategias de gestión de riesgos para la seguridad hídrica en comunidades vulnerables de la costa colombiana](charla-01/index.qmd)
+2. [La avenida fluvio-torrencial de Mocoa, Putumayo y sus lecciones y aprendizajes para el ordenamiento territorial](charla-02/index.qmd)
+3. [Seguridad hídrica y ciudades resilientes: comparación entre los casos de Brasil, Colombia y México](charla-03/index.qmd)
+4. [Recarga de sistemas lenticos en zonas de paramo caso de estudio: origen de la recarga del sistema laguna negra, localizada en el páramo de Oceta a partir de la elaboración de un modelo hidrogeológico](charla-04/index.qmd)
+5. [Lógica de la atención en la fase interdesastre: gestión de un centro de voluntarios civiles para desastres en una zona propensa a desastres relacionados con el agua en Japón](charla-05/index.qmd)
+6. [Desplazamiento forzado interno por factores ambientales, un nuevo paradigma jurídico en el estado colombiano](charla-06/index.qmd)
+
+## Video de la sesión
+
+<iframe src="https://drive.google.com/file/d/1hwn8ZYnCy8yhDReR9PlcED3w39vYhiQk/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
+<iframe src="https://drive.google.com/file/d/1v9QOEp9b8J2ctjkf5Kdh6acVcpgdRDZa/preview" width="100%" height="480" allow="autoplay" allowfullscreen></iframe>
+
