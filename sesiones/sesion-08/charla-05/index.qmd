@@ -1,0 +1,9 @@
+---
+title: La importancia de los estudios geocientíficos en la gestión del riesgo
+author:
+- name: Julio Fierro
+- name: ​jfierro@sgc.gov.co(mailto:jfierro@sgc.gov.co)
+abstract: Julio Fierro, Servicio Geológico Colombiano, ​[[jfierro@sgc.gov.co]{.underline}](mailto:jfierro@sgc.gov.co)
+categories:
+- Sesión 8. Percepción del riesgo, comportamiento humano y cultura
+---

@@ -1,0 +1,17 @@
+---
+title: 'Caracterización de Amenazas de Inundación como soporte al ordenamiento territorial: Caso de estudio centros poblados Región Mojana Colombia'
+author:
+- name: Nelsy Verdugo R
+  affiliations:
+  - Profesional Especializada Grupo de Modelación y Pronósticos Hidrológicos IDEAM, Bogotá Colombia
+- name: Fabio Andrés Bernal
+  affiliations:
+  - Subdirector de Hidrología IDEAM, Bogotá Colombia
+keywords:
+- Amenaza de inundación
+- Modelación hidrológica
+- Modelación hidráulica
+abstract: '[<nverdugo@ideam.gov.co>; <fbernal@ideam.gov.co>]{.underline}'
+categories:
+- Sesión 11. Inundaciones, erosión fluvial y costera
+---

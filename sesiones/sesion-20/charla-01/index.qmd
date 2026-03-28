@@ -1,0 +1,13 @@
+---
+title: Medición y comprensión del conocimiento ambiental en la conservación de los servicios ecosistémicos
+author:
+- name: Dra. Tlou D. Raphela
+keywords:
+- Conocimiento ecológico
+- servicios ecosistémicos
+- comunidades rurales
+- municipio de Thulamela
+abstract: Universidad del Estado Libre, Centro de Educación y Capacitación en Gestión de Desastres para África, Bloemfontein, Sudáfrica, 0193
+categories:
+- Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+---

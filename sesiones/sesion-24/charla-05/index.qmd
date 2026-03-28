@@ -1,0 +1,12 @@
+---
+title: Sistema de Alerta Temprana para prevenir Inundaciones y Movimientos en Masa -- Proyecto Perú
+author:
+- name: Johann Alexander Vera Mercado
+  corresponding: true
+  email: Johann.mercado@aem.eco
+abstract: El sistema de evaluación local automatizada en tiempo real (ALERT2 -- Automated Local Evaluation in Real Time), es un protocolo de radio desarrollado y utilizado como un estándar abierto por el
+  Servicio Meteorológico Nacional de los Estados Unidos para redes de monitoreo ambiental de alerta temprana para garantizar una interoperabilidad robusta entre plataformas independientes de hardware y
+  software, usando sensores remotos para transmitir datos ambientales vía radio a estaciones base para su análisis y procesamiento.
+categories:
+- Sesión 24. Sistemas de Alerta Temprana
+---

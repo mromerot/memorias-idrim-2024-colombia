@@ -1,0 +1,16 @@
+---
+title: 'El arte como plataforma para la comunicación, la educación y la concientización sobre los riesgos de desastres: desarrollo de un marco para respuestas a los desastres impulsadas por el arte'
+author:
+- name: Florence Lahournat
+  affiliations:
+  - Profesora asociada junior, Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto, Uji, Japón
+keywords:
+- Comunicación de riesgos
+- Conciencia de riesgos
+- Arte
+- Comunidad
+- Enfoques holísticos
+abstract: '[[lahournat.florence.3a@kyoto-u.ac.jp]{.underline}](mailto:lahournat.florence.3a@kyoto-u.ac.jp)'
+categories:
+- Sesión 4. Percepción del riesgo, comportamiento humano y cultura
+---

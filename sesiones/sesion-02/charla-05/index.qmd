@@ -1,0 +1,18 @@
+---
+title: El potencial de las cartas como herramienta de comunicación para la prevención de desastres
+author:
+- name: Ryoga Ishihara
+  affiliations:
+  - Universidad Ryukoku, Kioto, Japón
+  corresponding: true
+  email: ryoga@policy.ryukoku.ac.jp
+keywords:
+- Carta
+- Educación para la preparación ante desastres
+- Transferencia de aprendizaje
+abstract: La educación para la preparación ante desastres en las escuelas no sólo beneficia a los niños y estudiantes, sino que también tiene un efecto dominó en las personas que los rodean. Existe un gran
+  potencial para mejorar la preparación ante desastres de toda la comunidad, ya que los niños transmiten las lecciones que aprenden de la educación sobre desastres a sus familias y comunidades. Sin embargo,
+  el medio para esto no ha sido bien estudiado.
+categories:
+- Sesión 2. Comunicación y educación en GRD
+---

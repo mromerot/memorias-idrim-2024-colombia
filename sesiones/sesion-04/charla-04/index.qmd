@@ -1,0 +1,20 @@
+---
+title: 'Comprendiendo los efectos del cambio climático en el Reino Unido: perspectivas extraídas de las encuestas de percepción pública'
+author:
+- name: Mark Ashley Parry
+  affiliations:
+  - Universidad de Northumbria, Newcastle-upon-Tyne, Reino Unido
+  corresponding: true
+  email: ashley2.parry@northumbria.ac.uk
+keywords:
+- Cambio climático
+- Educación
+- Reino Unido
+abstract: En los últimos años, el Reino Unido ha observado una serie de fenómenos meteorológicos extremos, que algunos atribuyen al impacto del cambio climático. Este artículo explora las percepciones de
+  los impactos del cambio climático en el Reino Unido, utilizando una investigación pragmática que integra una combinación de métodos para captar una comprensión integral de este problema multidisciplinario
+  (socioambiental). Un componente principal de la investigación implicó un cuestionario detallado realizado entre marzo y septiembre de 2017, utilizando preguntas abiertas y cerradas para extraer las opiniones
+  de la sociedad civil sobre el cambio climático, incluidos los impactos. Además, se utilizaron datos de las encuestas del Departamento de Negocios, Energía y Estrategia Industrial (BEIS) de marzo de 2019
+  y marzo de 2020 para crear una instantánea anual para buscar tendencias.
+categories:
+- Sesión 4. Percepción del riesgo, comportamiento humano y cultura
+---

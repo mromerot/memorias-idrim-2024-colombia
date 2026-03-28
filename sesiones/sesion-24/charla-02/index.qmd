@@ -1,0 +1,25 @@
+---
+title: Monitoreo participativo para fortalecer el sistema de alertas tempranas comunitarios ante inundaciones y crecientes súbitas en regiones montañosas. Caso de estudio quebrada Manizales, Manizales.
+author:
+- name: Maria J. Henao Salgado
+  affiliations:
+  - Estudiante de doctorado en Ingeniería Civil-Departamento de Ingeniería Civil-Universidad Nacional de Colombia, Manizales, Colombia
+- name: Pedro A. Hernandez Vasquez
+  affiliations:
+  - Maestro de Ciencias Naturales, Institución Educativa Superior de Maltería, Manizales, Colombia
+- name: Jose H. Duque Corrales
+  affiliations:
+  - Concejal y Expresidente de la junta de acción comunal del barrio Maltería, Concejo de Manizales, Manizales, Colombia
+- name: Jorge J. Vélez Upegui
+  affiliations:
+  - Profesor titular del Departamento de Ingeniería Civil-Facultad de Ingeniería y Arquitectura-Universidad Nacional de Colombia, Manizales, Colombia
+keywords:
+- Monitoreo ambiental comunitario
+- Sistemas de alerta temprana comunitarios
+- Comunidades resilientes
+- Sensores de bajo costo
+- Ciencia ciudadana
+abstract: '[[mjhenaos@unal.edu.co]{.underline}](mailto:mjhenaos@unal.edu.co)'
+categories:
+- Sesión 24. Sistemas de Alerta Temprana
+---

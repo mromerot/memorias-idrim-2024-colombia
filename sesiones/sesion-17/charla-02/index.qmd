@@ -1,0 +1,12 @@
+---
+title: 'Concientización sobre el empoderamiento de las mujeres y el papel del teatro: un estudio en un pueblo de Bengala Occidental, India'
+author:
+- name: Debkalpa BasuDas
+keywords:
+- Teatro; Empoderamiento de la mujer
+- Concientización
+- Violencia contra la mujer (VCM)
+abstract: Investigadora doctoral, Centro de Investigación de Estudios de la Mujer, Universidad de Calcuta, Kolkata, India
+categories:
+- Sesión 17. Enfoques diferenciales de la GRD
+---

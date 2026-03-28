@@ -1,0 +1,64 @@
+---
+title: 'Vulcanismo en centro y suroeste de Colombia: origen, evolución, amenaza, suelos volcánicos y geoturismo'
+author:
+- name: Laura Sánchez-Torres
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Hugo Murcia
+  affiliations:
+  - Grupo de Investigación en Recursos Naturales Amazónicos, Instituto Tecnológico del Putumayo, Sibundoy, Colombia;
+- name: Susana Osorio-Ocampo
+  affiliations:
+  - Grupo de Investigación en Gestión y Turismo, Universidad del Pacífico, Buenaventura, Colombia
+- name: Luis Alvaro Botero-Gómez
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Adriana Guerra-Acosta
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Erika Ibargüen-Angulo
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Ana Selena Rentería
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Alejandro Arias-Diaz
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Laura Vargas-Arcila
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Ana Toro
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Gina Bolaños-Cabrera
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Maira Bastidas-Bacca
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Ana Riascos-Hurtado
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Marissa López
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Ricardo Aguillon-Estacio
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Brayan Gómez-Gómez
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+- name: Estella Mejía
+  affiliations:
+  - Grupo de Investigación en Estratigrafía y Vulcanología (GIEV) Cumanday, Universidad de Caldas, Manizales, Colombia;
+keywords:
+- Volcanes monogenéticos
+- suelos volcánicos
+- geoturismo
+- apropiación social del conocimiento
+categories:
+- Sesión 14. Inteligencia artificial, ciencia, tecnología e innovación
+---
+
+

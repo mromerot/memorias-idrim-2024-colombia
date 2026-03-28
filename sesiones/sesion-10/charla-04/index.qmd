@@ -1,0 +1,14 @@
+---
+title: Uso de tecnologías geoespaciales nuevas y emergentes para mejorar las estadísticas oficiales en Colombia y su potencial uso en la gestión de riesgos de desastres
+author:
+- name: Raul E Ospina Villalobos
+keywords:
+- Estadística
+- Información Geoespacial
+- Geovisores
+- Geoportal
+- Gestión
+abstract: DANE Colombia, Máster en ciencias de la información Geográfica, Especialista en Sistemas de Información Geográfica e Ingeniero Catastral y geodesta.
+categories:
+- Sesión 10. Inteligencia artificial, ciencia, tecnología e innovación
+---

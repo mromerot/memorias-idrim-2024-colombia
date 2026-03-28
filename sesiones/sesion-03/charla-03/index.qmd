@@ -1,0 +1,21 @@
+---
+title: Cartagena de Indias - Bolívar, Colombia
+author:
+- name: José Vicente Franco Serna
+  affiliations:
+  - Ingeniero geólogo consultor, Medellín, Colombia
+- name: Olga P Bohórquez Orozco
+  affiliations:
+  - Ingeniera geóloga especialista consultora, Medellín, Colombia
+  corresponding: true
+  email: mejor2012@gmail.com
+keywords:
+- Morfodinámica
+- Sismos
+- Tsunami
+- Fallas geológicas
+- Observatorio
+abstract: Cartagena de Indias (D.T.), con cerca de 2 \'300.000 habitantes entre residentes y turistas, es la ciudad histórica colombiana, patrimonio cultural de la humanidad, fundada hace casi 500 años.
+categories:
+- Sesión 3. Explorando las amenazas marino costeras
+---

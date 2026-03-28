@@ -1,0 +1,30 @@
+---
+title: Evaluación del riesgo sísmico para la ciudad de Santiago de Cali, Colombia
+author:
+- name: Nathalie García-Millán
+  affiliations:
+  - Secretaría de Gestión del Riesgo de Emergencias y Desastres, Santiago de Cali, Colombia
+  corresponding: true
+  email: nathalie.garcia@cali.gov.co
+- name: Andrés Prieto
+  affiliations:
+  - Departamento Administrativo de Planeación, Santiago de Cali, Colombia
+- name: Catalina Yepes-Estrada
+  affiliations:
+  - Fundación GEM (Global Earthquake Model) , Pavia, Italia
+- name: Alejandro Calderón Ana Beatriz Acevedo
+  affiliations:
+  - Universidad EAFIT, Medellín, Colombia
+keywords:
+- Riesgo sísmico
+- Reducción del riesgo sísmico
+- Escenarios sísmicos
+abstract: Dentro de la gestión integral del riesgo de desastres el conocimiento del riesgo sísmico (identificación de sus componentes, estimación y comunicación del riesgo) es fundamental para desarrollar
+  estrategias de prevención, mitigación y respuesta ante terremotos. Una efectiva evaluación del riesgo requiere la interacción de modeladores del riesgo y tomadores de decisión, de modo que los resultados
+  se ajusten a las necesidades del territorio y puedan usarse en la definición de estrategias para la preparación, ejecución de la respuesta y la recuperación ante terremotos. La evaluación del riesgo sísmico
+  requiere la colaboración de un equipo interdisciplinario que comprenda la geología y sismicidad local, las características y el número de las edificaciones existentes y los habitantes que las ocupan,
+  y la vulnerabilidad sísmica de los edificios según la práctica constructiva. Los resultados de esta evaluación deben ser comunicados y socializados con los diferentes actores de la gestión del riesgo
+  de desastres, entre ellos con las autoridades pertinentes.
+categories:
+- Sesión 6. Comunicación y educación en DRM
+---

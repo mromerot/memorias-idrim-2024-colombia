@@ -1,0 +1,14 @@
+---
+title: Estudio sobre el mecanismo de interferencia entre el riesgo integrado de múltiples peligros, la economía y la población basado en datos de múltiples fuentes
+author:
+- name: Yun Chen
+- name: Qiushan Li
+keywords:
+- Superposición de riesgos de peligros múltiples
+- Grupos económicamente desfavorecidos
+- Distribución espacial
+- Mecanismo de interferencia
+abstract: La Universidad Politécnica de Hong Kong-Instituto para la Gestión de Desastres y la Reconstrucción (IDMR), Universidad de Sichuan, Chengdu 610207, China
+categories:
+- Sesión 18. Aseguramiento y protección financiera para la GRD
+---

@@ -1,0 +1,9 @@
+---
+title: Conocer los riesgos de mi territorio me permite salvaguardar vidas; Oi, oi, el tsunami puede venir
+author:
+- name: Liner F. Salazar Torres
+abstract: Ingeniera en Producción Acuícola, Universidad de Nariño. Especialista en Educación con Énfasis en Pedagogía, Universidad Mariana, Pasto; Colombia. Especialista en Gestión Ambiental, Universidad
+  del Área Andina, Bogotá; Colombia.
+categories:
+- Sesión 22. Preparación para una respuesta a múltiples riesgos
+---

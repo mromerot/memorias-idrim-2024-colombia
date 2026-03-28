@@ -1,0 +1,9 @@
+---
+title: 'Planificación Territorial, Gestión de Políticas Públicas y Agenda Urbana: resiliencia de las ciudades y sus territorios en el contexto del cambio climático y las vulnerabilidades socioambientales'
+author:
+- name: Maria Galleno de S
+- name: Oliveira
+abstract: Centro de Estudos de Regulação e Governança -- UNESP-Campus de Franca/SP-Brasil
+categories:
+- Sesión 19. Participación comunitaria y ONGs
+---

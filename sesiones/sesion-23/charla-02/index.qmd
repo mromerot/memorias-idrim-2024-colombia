@@ -1,0 +1,12 @@
+---
+title: Las verdades al aplicar los planes de emergencia y contingencia, los enigmas del valor presupuestal" emergencia por desabastecimiento de agua en la ciudad de Yopal".
+author:
+- name: Luz Mireya Patiño Salcedo
+keywords:
+- Plan de emergencia y contingencias
+- planta de tratamiento
+- Centro de Atención a la Contingencia
+abstract: Ingeniera Sanitaria y Ambiental, Especialista en Medio ambiente, Especialista en Seguridad, Master en HSEQ.
+categories:
+- Sesión 23. Gestión eficaz de recursos y coordinación logística
+---

@@ -1,0 +1,14 @@
+---
+title: Villa B un escenario de impactos socio-ambientales tras las inundaciones en Sucre-Sucre 2010.
+author:
+- name: Lila Y. Correa Cazado
+- name: Juan D. Alvarado Barcinilla
+keywords:
+- Impactos socio-ambientales
+- cultura anfibia
+- Practicas resilientes
+- inundaciones
+abstract: Universidad del Atlántico, estudiante de pregrado en sociología, Barranquilla, Colombia
+categories:
+- Sesión 17. Enfoques diferenciales de la GRD
+---

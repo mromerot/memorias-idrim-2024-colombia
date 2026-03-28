@@ -1,0 +1,26 @@
+---
+title: El papel de los modelos de catástrofes como el Modelo Público de Pérdidas por Huracanes de Florida para garantizar comunidades resilientes a los desastres
+author:
+- name: Jean-Paul Pinelli
+  affiliations:
+  - Instituto Tecnológico de Florida, Melbourne, Estados Unidos
+  corresponding: true
+  email: pinelli@fit.edu
+- name: Kurt Gurley
+  affiliations:
+  - Universidad de Florida, Gainesville, Estados Unidos
+keywords:
+- Modelo de catástrofe
+- daño
+- mitigación
+- resiliencia
+abstract: Presentaremos un modelo de catástrofe de última generación establecido, el Modelo Público de Pérdidas por Huracanes de Florida (FPHLM), y describiremos los avances recientes en el modelado del
+  riesgo de huracanes para edificios residenciales, tanto de baja como de mediana y gran altura. El FPHLM, como muchos otros modelos de catástrofes, se desarrolló principalmente con fines de seguros. En
+  el módulo de vulnerabilidad del FPHLM, una metodología basada en componentes compara las cargas inducidas por el viento en los componentes externos con su capacidad de resistencia, para producir estimaciones
+  de daños externos mientras utiliza la física de la entrada, distribución y propagación del agua de lluvia, para proporcionar la base para las proyecciones de daños interiores y de contenido (Wei et al.,
+  2024; Silva de Abreu et al., 2020). El modelo combina estimaciones de la velocidad del viento, el impacto de escombros, la lluvia que golpea y la escorrentía superficial impulsada por el viento, los defectos
+  y las brechas de la envoltura, la distribución y propagación del agua en el interior y los análisis de costos de los componentes para proyectar los daños en la envoltura, el interior y el contenido. El
+  modelo se extiende a los gastos relacionados con el tiempo (TRE), también conocidos como gastos de vida adicionales (ALE) o costos de interrupción de negocios (BIC) (Wei et al., 2023).
+categories:
+- Sesión 3. Explorando las amenazas marino costeras
+---

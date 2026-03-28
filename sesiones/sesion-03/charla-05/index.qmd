@@ -1,0 +1,24 @@
+---
+title: Avances y desafíos en el pronóstico preciso de marejada por tormenta en San Andrés y Providencia
+author:
+- name: Andrés F. Cartagena P
+  affiliations:
+  - Ingeniero Oceanográfico, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH)- DIMAR, Cartagena, Colombia
+- name: Claudia P. Urbano-Latorre
+  affiliations:
+  - PhD(c) en Ciencias del Mar, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH) - DIMAR, Cartagena, Colombia
+  corresponding: true
+  email: CUrbano@dimar.mil.co
+keywords:
+- Marejada de tormenta
+- Modelación numérica
+- Mike21
+- Pronóstico
+abstract: En el Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH), realizo la implementación operacional en modo pronostico del modelo Mike21 (software de modelado 2D de costas
+  y mares desarrollado por DHI), que permite simular la sobreelevación del nivel del mar por marejada de tormenta, en el área insular de San Andrés, Providencia y Santa Catalina, dada su alta vulnerabilidad
+  frente a la amenaza por el paso de huracanes. La configuración del modelo se realiza con una malla no estructurada, que implica cuadrículas no rectilíneas, lo que mejora la flexibilidad y precisión en
+  la representación de entornos costeros. Dado el tamaño de las islas se estableció una resolución espacial variable entre 20 m en aguas someras hasta 10 km en las zonas de aguas profundas; con una topo-batimetría
+  de alta resolución (\~5m) suministrada por el Servicio Hidrográfico Nacional del CIOH.
+categories:
+- Sesión 3. Explorando las amenazas marino costeras
+---

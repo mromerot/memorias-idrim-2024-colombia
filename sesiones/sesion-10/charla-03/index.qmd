@@ -1,0 +1,36 @@
+---
+title: Aplicaciones de Sensores Remotos de acceso libre en la Gestión del Riesgo de Desastres
+author:
+- name: Jorge A Alpala
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Bogotá, Colombia
+  corresponding: true
+  email: jorge.alpala@gestiondelriesgo.gov.co
+- name: Duván Rodríguez
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Bogotá, Colombia
+- name: Sandra Mendoza
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Bogotá, Colombia
+- name: Laura Sánchez
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Bogotá, Colombia
+keywords:
+- Sensor
+- remoto
+- gestión
+- riesgo
+- desastre
+abstract: Un sensor remoto es un dispositivo o instrumento que recoge información sobre objetos o áreas a distancia, sin necesidad de contacto físico directo con ellos. Los sensores remotos pueden estar
+  instalados en satélites, aviones, drones y otros vehículos aéreos o terrestres. Esta tecnología se ha convertido en una industria de rápido crecimiento, estimándose que para el año 2025 el mercado de
+  sensores remotos alcanzará los 18.6 mil millones de dólares. Aunque gran parte de la información obtenida con esta tecnología solo es accesible mediante acuerdos económicos, varias agencias y entidades
+  han liberado datos, ofreciendo información de manera gratuita. Esto facilita su explotación y aprovechamiento por parte de científicos, gobiernos y organizaciones de todo el mundo, mejorando significativamente
+  la capacidad de predicción, prevención y respuesta ante desastres. Esta presentación se enfoca en mostrar aplicaciones y herramientas de consulta en línea para la visualización, descarga y procesamiento
+  de datos de sensores remotos de uso libre. Los casos de estudio presentados corresponden a inundaciones, sequías, incendios forestales, deslizamientos, terremotos, erupciones volcánicas, huracanes y tormentas,
+  tsunami, contaminación ambiental, desertificación y plagas y enfermedades en el territorio nacional. Finalmente, la disponibilidad de estos recursos en la nube democratiza el acceso a tecnologías avanzadas,
+  posibilitando que instituciones y comunidades con recursos limitados puedan beneficiarse de análisis complejos, modelos predictivos, detección temprana de amenazas, evaluación de daños post-desastre y
+  planificación de medidas preventivas. Este enfoque no solo optimiza el uso de los datos para la toma de decisiones informadas, sino que también fomenta la colaboración y el intercambio de información
+  a nivel global, mejorando la preparación y respuesta ante desastres.
+categories:
+- Sesión 10. Inteligencia artificial, ciencia, tecnología e innovación
+---

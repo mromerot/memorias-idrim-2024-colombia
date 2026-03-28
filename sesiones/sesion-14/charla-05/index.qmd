@@ -1,0 +1,25 @@
+---
+title: Sistema híbrido de monitoreo para la evaluación de efectos térmicos en vigas de puentes de concreto
+author:
+- name: José M. Benjumea
+  affiliations:
+  - Doctor en Ingeniería Civil y Ambiental, Profesor Asociado de la Universidad Industrial de Santander, Bucaramanga, Colombia.
+- name: Pedro J. Cavadia
+  affiliations:
+  - Estudiante de Maestría en Ingeniería Civil de la Universidad Industrial de Santander, Bucaramanga, Colombia.
+- name: Oscar J. Begambre
+  affiliations:
+  - Doctor en Ingeniería Civil, Profesor de la Universidad Industrial de Santander, Bucaramanga, Colombia.
+- name: Edison Osorio
+  affiliations:
+  - Doctor en Ingeniería Eléctrica, Profesor de la Universidad Industrial de Santander, Bucaramanga, Colombia.
+keywords:
+- Cambio climático
+- Temperatura del puente
+- Perfil de temperatura
+- Dron
+- Monitoreo
+abstract: '[[josbenro@uis.edu.co]{.underline}](mailto:josbenro@uis.edu.co)'
+categories:
+- Sesión 14. Inteligencia artificial, ciencia, tecnología e innovación
+---

@@ -1,0 +1,31 @@
+---
+title: 'Percepción del riesgo y resiliencia comunitaria: desafíos y respuestas ante ciclones tropicales en la zona insular del caribe colombiano'
+author:
+- name: Samuel Alberto Castro González
+  affiliations:
+  - PhD. Florida State University, Tallahassee, Estados Unidos
+  corresponding: true
+  email: samuelalbertoc@hotmail.com
+- name: Carolina Sofia Velásquez Calderon
+  affiliations:
+  - PhD. Florida State University, Tallahassee, Estados Unidos
+  corresponding: true
+  email: samuelalbertoc@hotmail.com
+keywords:
+- Tejido social
+- costa caribe colombiana
+- gestión del riesgo de desastres
+- resiliencia
+- salud mental
+abstract: 'La costa Caribe e insular de Colombia enfrenta una alta vulnerabilidad frente al impacto de ciclones tropicales, como evidenció el huracán Iota en 2020, que causó daños considerables no solo
+  en la infraestructura, sino también en la salud emocional y social de los habitantes del archipiélago de San Andrés, providencia y Santa Catalina. Este desastre resaltó la importancia de comprender la
+  percepción del riesgo y la resiliencia comunitaria para formular estrategias efectivas de recuperación y mitigación. Este estudio se centró en analizar la percepción del riesgo y las necesidades de la
+  comunidad mediante una encuesta semi-estructurada realizada durante la socialización de los resultados preliminares del estudio lineamientos de gestión del riesgo para el plan de equipamientos de culto
+  de la isla de San Andrés. El taller participativo, realizado en agosto de 2022, proporciono una plataforma para evaluar la percepción de riesgo en la comunidad religiosa y recoger sus necesidades y aportes.
+  Los resultados de la encuesta revelaron que la percepción del riesgo es alta entre los miembros de esta comunidad, quienes destacaron la necesidad urgente de restaurar servicios básicos como electricidad,
+  agua potable y comunicaciones tras un desastre. Además, se identificó que la cohesión social y el apoyo mutuo son esenciales para la resiliencia comunitaria, permitiendo a los habitantes enfrentar y superar
+  las crisis post-desastre. En respuesta a las necesidades identificadas, se formularon varios lineamientos para fortalecer la cohesión social y la salud mental de la comunidad. Entre estos lineamientos
+  se incluyen:'
+categories:
+- Sesión 8. Percepción del riesgo, comportamiento humano y cultura
+---

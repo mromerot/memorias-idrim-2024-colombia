@@ -1,0 +1,23 @@
+---
+title: 'Desafíos de la Adaptación Costera: Enfoque Basado en Ecosistemas en el Caribe Colombiano'
+author:
+- name: Johan C. Casadiego Estévez
+  affiliations:
+  - Programa de Geociencias Marinas y costeras-GEO, Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andréis" (Invemar), Santa Marta, Colombia.
+  corresponding: true
+  email: david.morales@invemar.org.co
+- name: David F. Morales Giraldo
+  affiliations:
+  - Programa de Geociencias Marinas y costeras-GEO, Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andréis" (Invemar), Santa Marta, Colombia.
+- name: Constanza Ricaurte Villota
+  affiliations:
+  - Programa de Geociencias Marinas y costeras-GEO, Instituto de Investigaciones Marinas y Costeras "José Benito Vives de Andréis" (Invemar), Santa Marta, Colombia.
+keywords:
+- Medidas de Adaptación Basada en Ecosistemas
+- Sistemas costeros
+- Sistema de monitoreo
+- Soluciones Basadas en Naturaleza
+abstract: David F. Morales Giraldo^1^, [[david.morales@invemar.org.co]{.underline}](mailto:david.morales@invemar.org.co)
+categories:
+- Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+---

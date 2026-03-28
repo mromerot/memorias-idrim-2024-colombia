@@ -1,0 +1,34 @@
+---
+title: 'Desentrañando las complejas interacciones entre los componentes de riesgo a través de la metodología de la cadena de impacto: una aplicación al estudio de caso de la tormenta Vaia'
+author:
+- name: Federica Romagnoli
+  affiliations:
+  - Universidad de las Naciones Unidas-Instituto para el Medio Ambiente y la Seguridad Humana (UNU-EHS), Alemania
+  corresponding: true
+  email: federica.romagnoli@eurac.edu
+- name: Silvia Cocuccioni
+  affiliations:
+  - Departamento de Geografía, Universidad del Estado Libre, Sudáfrica
+- name: Liz Jessica Olaya Calderòn
+  affiliations:
+  - Universidad de las Naciones Unidas-Instituto para el Medio Ambiente y la Seguridad Humana (UNU-EHS), Alemania
+- name: Massimiliano Pittore
+  affiliations:
+  - Universidad de las Naciones Unidas-Instituto para el Medio Ambiente y la Seguridad Humana (UNU-EHS), Alemania
+- name: Stefan Schneiderbauer
+  affiliations:
+  - Universidad de las Naciones Unidas-Instituto para el Medio Ambiente y la Seguridad Humana (UNU-EHS), Alemania
+keywords:
+- Análisis de múltiples riesgos
+- Cadenas de impacto
+- Eventos meteorológicos extremos
+- Riesgos relacionados con el clima
+abstract: Las amenazas y riesgos relacionados con el clima son sistémicos y multifacéticos, y se vuelven cada vez más complejos en contextos de múltiples riesgos. A medida que el cambio climático intensifica
+  los fenómenos meteorológicos extremos, se espera que los múltiples riesgos y amenazas se vuelvan más frecuentes. Al mismo tiempo, las variables sociales y humanas influyen en la vulnerabilidad y la exposición,
+  afectando la capacidad de los sistemas socioambientales para hacer frente a los riesgos futuros relacionados con el clima. La comunidad científica de riesgos reconoce la naturaleza interconectada del
+  riesgo, pero las metodologías actuales para el análisis y la evaluación de riesgos no logran abordar estas complejidades. Para avanzar en la ciencia de riesgos, EURAC Research, en colaboración con otros
+  socios, ha desarrollado un marco conceptual llamado Cadenas de Impacto (IC). Este marco representa de manera sistemática y completa las interacciones entre los componentes de riesgo, como los peligros,
+  la exposición y la vulnerabilidad. Permite la identificación de vías de riesgo específicas dentro de contextos geográficos y temporales determinados.
+categories:
+- Sesión 7. Identificación de riesgos, evaluación de riesgos y evaluación de riesgos sistémicos y complejos
+---

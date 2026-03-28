@@ -1,0 +1,12 @@
+---
+title: Modelo Nacional de Riesgo Sísmico de Colombia
+author:
+- name: Monica Arcila Ph.D
+keywords:
+- Gestión del riesgo
+- ordenamiento territorial
+- riesgo sísmico
+abstract: '[[marcila@sgc.gov.co]{.underline}](mailto:marcila@sgc.gov.co)'
+categories:
+- Sesión 15. Identificación de riesgos en entornos rurales y urbanos
+---

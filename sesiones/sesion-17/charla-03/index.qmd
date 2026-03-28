@@ -1,0 +1,18 @@
+---
+title: El enfoque étnico diferencial como una estrategia para reducir el riesgo de desastres en Colombia
+author:
+- name: María del Mar Moreno Gómez
+  affiliations:
+  - Departamento de salud global, Karolinska Institutet, Estocolmo, Suecia.
+- name: Erwin Hernández
+  affiliations:
+  - Departamento de Medicina Familiar y Salud Pública, Facultad de Medicina, Universidad de la Sabana, Chía, Colombia
+- name: Camilo Correal
+  affiliations:
+  - Departamento de salud global, Karolinska Institutet, Estocolmo, Suecia.
+keywords:
+- Desastres; manejo del riesgo; Colombia; etnicidad; Diversidad cultural
+abstract: '[[mariamorgo@unisabana.edu.co]{.underline}](mailto:mariamorgo@unisabana.edu.co)'
+categories:
+- Sesión 17. Enfoques diferenciales de la GRD
+---

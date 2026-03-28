@@ -1,0 +1,24 @@
+---
+title: 'Ocurrencia e impacto social de los desastres: caso de los deslizamientos en México'
+author:
+- name: Srahyrlandy Rocio Díaz Sánchez
+  affiliations:
+  - Departamento de Química, Universidad Autónoma del Estado de México, México
+  corresponding: true
+  email: sraydiaz@gmail.com
+- name: Edel Cadena
+  affiliations:
+  - Departamento de Geografía, Universidad Autónoma del Estado de México, México
+keywords:
+- Deslizamientos
+- Inventario
+- Riesgo
+- Historicidad
+- Población
+abstract: Es común escuchar la frase "quien no conoce su historia está condenado a repetirla". En efecto, conocer la historicidad de los eventos naturales es fundamental no sólo para datarlos sino también
+  para determinar sus causas y efectos. Es un primer paso en la estimación de la recurrencia, es decir, la posibilidad de que los eventos vuelvan a ocurrir en condiciones similares, así como en la localización
+  de zonas con alto riesgo de desastre. Las Naciones Unidas (ONU 2005) identifican el desarrollo y la mejora de bases de datos pertinentes como una prioridad clave para el desarrollo de capacidades de los
+  países en desarrollo (Taylor et al. 2015).
+categories:
+- Sesión 5. Modelado y pronóstico de geoamenazas
+---

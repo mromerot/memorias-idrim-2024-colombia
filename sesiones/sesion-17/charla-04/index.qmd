@@ -1,0 +1,14 @@
+---
+title: 'Conmemoración de desastres: dinámicas comunitarias y espacios conmemorativos El caso de la tormenta Xynthia en La Faute sur Mer, Francia'
+author:
+- name: Florence Lahournat
+keywords:
+- Memoria de desastres
+- Memorialización
+- Monumentos de desastres
+- Comunicación de riesgos
+- Recuperación comunitaria
+abstract: Profesora asociada junior, Instituto de Investigación para la Prevención de Desastres, Universidad de Kioto, Uji, Japón,
+categories:
+- Sesión 17. Enfoques diferenciales de la GRD
+---

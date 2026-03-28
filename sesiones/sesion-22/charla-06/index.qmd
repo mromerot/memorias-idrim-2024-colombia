@@ -1,0 +1,17 @@
+---
+title: Impactos económicos de los desastres complejos que afectan a los puertos gemelos de Los Ángeles y Long Beach
+author:
+- name: Adam Rose
+- name: Noah Miller
+- name: Zhenhua Chen
+- name: Fred Roberts
+- name: Andrew Tucci
+- name: Latha Vijayagopal
+keywords:
+- desastres complejos
+- puertos marítimos
+- eventos complejos
+abstract: Adam Rose, Noah Miller, Zhenhua Chen, Fred Roberts, Andrew Tucci, Latha Vijayagopal
+categories:
+- Sesión 22. Preparación para una respuesta a múltiples riesgos
+---

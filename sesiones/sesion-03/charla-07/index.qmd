@@ -1,0 +1,26 @@
+---
+title: 'Predicción de marejada de tormenta en San Andrés y Providencia: integración de SIPSEM en estrategias de gestión de riesgo'
+author:
+- name: Claudia P. Urbano-Latorre
+  affiliations:
+  - PhD(c) en Ciencias del Mar, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH) - DIMAR, Cartagena, Colombia
+  corresponding: true
+  email: curbano@dimar.mil.co
+- name: Andrés F. Cartagena P
+  affiliations:
+  - Ingeniero Oceanográfico, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH)- DIMAR, Cartagena, Colombia
+- name: Wilmer Rey
+  affiliations:
+  - PhD en Ingeniera de Costas, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH)- DIMAR, Cartagena, Colombia
+keywords:
+- Pronóstico
+- Marejada de tormenta
+- Ciclones tropicales
+- San Andrés y Providencia
+- Modelación numérica
+abstract: La Dirección General Marítima (DIMAR) a través del Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH) ha desarrollado dentro del proyecto SIPSEM (Sistema Integrado de pronósticos
+  para Seguridad Marítima) herramientas para la predicción del estado del tiempo marino a nivel nacional y local y su influencia en la navegación y las actividades marítimas, a fin de salvaguardar la vida
+  humana en el mar y realizar operaciones seguras, para los tomadores de decisiones y la comunidad marítima.
+categories:
+- Sesión 3. Explorando las amenazas marino costeras
+---

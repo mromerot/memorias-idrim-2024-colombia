@@ -1,0 +1,19 @@
+---
+title: 'Los estudios de riesgo volcánico en Colombia: Más allá de modelamientos matemáticos'
+author:
+- name: John Makario Londoño Bonilla.^1 ^
+  affiliations:
+  - Geólogo, MSc, PhD, Servicio Geológico Colombiano, Bogotá, Colombia.
+  corresponding: true
+  email: jmakario@sgc.gov.co
+keywords:
+- Gestión del riego de desastre
+- erupción volcánica
+- mapa de riesgo volcánico
+- riesgo probabilista
+- volcán Galeras
+abstract: La gestión del riesgo de desastres por erupciones volcánicas en Colombia carece actualmente de normatividad para la elaboración de estudios de amenaza y riesgo volcánico con enfoque hacia el ordenamiento
+  territorial.
+categories:
+- Sesión 8. Percepción del riesgo, comportamiento humano y cultura
+---

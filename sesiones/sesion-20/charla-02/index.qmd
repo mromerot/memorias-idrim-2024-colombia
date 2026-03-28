@@ -1,0 +1,14 @@
+---
+title: Desarrollo de capacidades para la reducción del riesgo de desastres en el entorno construido en América Latina y el Caribe (BERLAC)
+author:
+- name: América Bendito Shoichi Tabuchi y Soichiro Yasukawa
+keywords:
+- Entorno construido
+- Códigos de construcción
+- Resiliencia
+- Terremoto
+- Modernización
+abstract: América Bendito^1\*,^ Shoichi Tabuchi^1^ y Soichiro Yasukawa^1^
+categories:
+- Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+---

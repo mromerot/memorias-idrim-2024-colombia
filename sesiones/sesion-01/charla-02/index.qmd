@@ -1,0 +1,19 @@
+---
+title: Evolución y retos de la gestión del riesgo en los instrumentos de planificación territoriales de Colombia
+author:
+- name: Marco Gamboa Ramírez
+  affiliations:
+  - Ingeniero Geólogo, Universidad Nacional, Medellín, Colombia
+  corresponding: true
+  email: mgamboa@eafit.edu.co
+keywords:
+- Gestión del riesgo
+- ordenamiento territorial
+- planeación
+abstract: La gestión del riesgo en la planificación en Colombia se remonta a finales de los años 80, casi de manera simultánea con la expedición del Decreto Ley 919 de 1989 Por el cual se organiza el Sistema
+  Nacional para la Prevención y Atención de Desastres se expide la Ley 9 de 1989 sobre planes integrales de desarrollo, donde se señala que los municipios deben reservar tierras necesarias para la reubicación
+  de asentamientos en riesgo, se establecía la posibilidad expropiar lotes para la reubicación de estos asentamientos y se generaba la necesidad de realizar un inventario de asentamientos humanos que presentaran
+  alto riesgo por parte de los municipios.
+categories:
+- Sesión 1. Justicia climática, cambio climático y riesgos emergentes
+---

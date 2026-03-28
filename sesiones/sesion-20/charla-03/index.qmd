@@ -1,0 +1,22 @@
+---
+title: 'Gestión del riesgo orientada a la sostenibilidad: una ruta para mejorar la calidad de vida en las pequeñas ciudades'
+author:
+- name: Graciela Peters G
+  affiliations:
+  - Geóloga. Corporación Autónoma Regional del Valle del Cauca -- CVC, Santiago de Cali, Colombia
+- name: Arélix A. Ordoñez F
+  affiliations:
+  - Ingeniera ambiental, Corporación Autónoma Regional del Valle del Cauca -- CVC, Santiago de Cali, Colombia
+- name: Andrés F. Trujillo O
+  affiliations:
+  - Arquitecto, Corporación Autónoma Regional del Valle del Cauca -- CVC, Santiago de Cali, Colombia
+keywords:
+- zonificación de amenazas
+- ordenamiento territorial
+- gestión urbana sostenible
+- SBN
+- calidad de vida
+abstract: '[[graciela.peters@cvc.gov.co]{.underline}](mailto:graciela.peters@cvc.gov.co)'
+categories:
+- Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+---

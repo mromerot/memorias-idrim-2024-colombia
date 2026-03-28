@@ -1,0 +1,16 @@
+---
+title: 'Apoyo a la gestión y gobernanza de riesgos de Natech en Colombia: cambios en la conciencia de riesgos mediante un enfoque de juego serio'
+author:
+- name: Lina M. Parra y Ana M. Cruz
+  affiliations:
+  - Estudiante de doctorado, Facultad de Ingeniería, Universidad de Kioto, Kioto, Japón
+keywords:
+- gestión de riesgos
+- gobernanza de riesgos
+- participación de las partes interesadas
+- comunicación de riesgos
+- juegos serios
+abstract: '[[cruznaranjo.anamaria.2u@kyoto-u.ac.jp]{.underline}](mailto:cruznaranjo.anamaria.2u@kyoto-u.ac.jp)'
+categories:
+- Sesión 9. Perspectivas de la Gestión de Riesgos Natech
+---

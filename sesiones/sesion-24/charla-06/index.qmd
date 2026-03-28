@@ -1,0 +1,25 @@
+---
+title: 'Tsunami traspasando fronteras: lecciones aprendidas del tsunami de Hunga Tonga - Hunga Ha''apai de enero de 2022'
+author:
+- name: Paola Andrea Quintero Rodríguez
+  affiliations:
+  - Unidad Nacional para la Gesti'on del Riesgo de Desastres
+- name: Mary Luz Rengifo Buitrago
+  affiliations:
+  - Responsible National Tsunami Warning Center, Maritime General Directorate  DIMAR - Colombia
+- name: Silvia Chacón-Barrantes
+  affiliations:
+  - Silvia Chacón-Barrantes -- SINAMOT-UNA - Costa Rica
+- name: Carolina Hincapie
+  affiliations:
+  - Carolina Hincapie - NOAA/NWS/Pacific Tsunami Warning Center (to be confirmed)
+- name: Giacomo Morote
+  affiliations:
+  - Giacomo Morote -- Tsunami Warning Center(DHN) -- Perú
+- name: '''Ofa Fa'' Anunu'
+  affiliations:
+  - Unidad Nacional para la Gesti'on del Riesgo de Desastres
+abstract: '''Ofa Fa'' Anunu - Director of Meteorology and Coast Watch Services at Tonga'
+categories:
+- Sesión 24. Sistemas de Alerta Temprana
+---

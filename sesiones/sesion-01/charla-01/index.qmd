@@ -1,0 +1,39 @@
+---
+title: Estudio preliminar de isotopía de aguas superficiales y suelos en el páramo de Chingaza y rio Bogotá
+author:
+- name: Jimmy Alejandro Muñoz
+  affiliations:
+  - Servicio Geológico Colombiano, Dirección de Asuntos Nucleares
+  corresponding: true
+  email: jamunoz@sgc.gov.co
+- name: Maribel Moreno
+  affiliations:
+  - Servicio Geológico Colombiano, Dirección de Asuntos Nucleares
+- name: Ana Milena Velásquez
+  affiliations:
+  - Servicio Geológico Colombiano, Dirección de Asuntos Nucleares
+- name: Andrea Rocha
+  affiliations:
+  - Servicio Geológico Colombiano, Dirección de Asuntos Nucleares
+  corresponding: true
+  email: jamunoz@sgc.gov.co
+- name: Mayda Arrieta
+  affiliations:
+  - Servicio Geológico Colombiano, Dirección de Asuntos Nucleares
+- name: Sergio Gaviria
+  affiliations:
+  - Servicio Geológico Colombiano, Dirección de Asuntos Nucleares
+keywords:
+- Relaciones isotópicas
+- deuterio
+- línea meteórica
+- ciclo del agua
+- Chingaza
+abstract: Actualmente la ciudad de Bogotá presenta desabastecimiento de agua potable lo cual perjudica alrededor de 10 millones de habitantes. Conocer la dinámica del agua y suelos en los principales afluentes
+  como los son el embalse de chuza y el rio Bogotá, es fundamental para poder generar políticas y normatividad en torno a la protección de estos ecosistemas. En la última década, las herramientas isotópicas
+  como los isotopos de H-2 y O-18, han sido utilizadas para poder entender los componentes del ciclo del agua, evaluar mejor la cantidad, la calidad y la sostenibilidad del agua. El isotopo de C-13 es utilizado
+  como biomarcador ya que aporta información de las condiciones ambientales, climatológicas, tipo y humedad del suelo, así como del tipo de vegetación que se desarrolló en estas zonas de estudio y el N-15
+  es utilizado como trazador de origen para diferenciación de contaminantes antropogénicos en suelos.
+categories:
+- Sesión 1. Justicia climática, cambio climático y riesgos emergentes
+---

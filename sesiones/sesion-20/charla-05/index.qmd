@@ -1,0 +1,14 @@
+---
+title: Viviendas de producción social ingobernables, tres décadas de exclusión
+author:
+- name: Claudia P. Coca G
+keywords:
+- Riesgo sísmico
+- ontología política
+- prácticas
+- vulnerabilidad
+- viviendas
+abstract: Docente investigadora, Maestría en Gestión del Riesgo y Desarrollo, Escuela de Ingenieros Militares -- ESING
+categories:
+- Sesión 20. Capacidad adaptativa y reducción de la vulnerabilidad ante riesgos ambientales y climáticos
+---

@@ -1,0 +1,30 @@
+---
+title: 'Seguridad hídrica y ciudades resilientes: comparación entre los casos de Brasil, Colombia y México'
+author:
+- name: Francisco Fabbro Neto
+  affiliations:
+  - Profesor del Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, campus Caraguatatuba/Brasil
+  corresponding: true
+  email: ffneto@ifsp.edu.br
+- name: Juan Camilo Múnera Estrada
+  affiliations:
+  - Colaborador externo del Centro de Ciencia y Tecnología de Antioquia/Colombia. Consultor Independiente
+- name: Xitlali Delgado-Galván
+  affiliations:
+  - Profesora del Universidad de Guanajuato/México
+- name: Ximena Pacheco Guerrero
+  affiliations:
+  - Estudiante del doctorado en Ciencia y Tecnología del Agua en Universidad de Guanajuato/México
+abstract: 'La seguridad hídrica emerge como uno de los objetivos de desarrollo sostenible (ODS) establecidos por las Naciones Unidas en 2012. El ODS 6 establece la garantía de suministro de agua en calidad
+  y cantidad suficiente, a alcanzar en 2030. Según las previsiones futuras, la proporción de la población urbana mundial aumentará del 46,6% en 2000 al 66,4% en 2050. Ese crecimiento aumentará la demanda
+  y el estrés del agua. Los problemas relacionados con los recursos hídricos incluyen la contaminación y la degradación de la calidad del agua superficial y subterránea, así como la ocurrencia de eventos
+  extremos como inundaciones, sequías y movimientos en masa. El crecimiento de las poblaciones urbanas vulnerables y el aumento de la densidad se encuentran entre los principales factores responsables del
+  aumento del riesgo de desastres, debido a una mayor exposición. A su vez, la resiliencia ante los desastres se refiere a la capacidad de la ciudad para comprender los riesgos, mitigarlos y responder a
+  ellos. También se considera la gestión preventiva y las acciones de recuperación posdesastre para retornar a condiciones similares a las existentes en forma previa al evento que lo origina. El reto del
+  artículo es comparar estudios de caso realizados a diferentes escalas en tres países de América Latina: Plan de Seguridad Hídrica elaborado para Caraguatatuba/São Paulo/Brasil, Diseño de un Índice de
+  Seguridad Hídrica para cuencas de importancia estratégica en el Valle de Aburrá/Antioquia/Colombia, y análisis de Índices de Seguridad Hídrica para México con enfoque en cuencas. Se analizarán cómo las
+  herramientas abordan el efecto del cambio climático y de los eventos hidrometeorológicos extremos sobre la seguridad hídrica. Como resultados esperados, se realizará una comparación entre las herramientas
+  analizadas, identificar similitudes y diferencias, y señalar soluciones a los desafíos a partir de otras experiencias internacionales.'
+categories:
+- Sesión 16. Recursos hídricos y ordenamiento territorial
+---

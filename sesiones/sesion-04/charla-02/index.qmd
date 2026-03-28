@@ -1,0 +1,22 @@
+---
+title: 'Gobernanza colaborativa para gestionar los peligros del aumento del nivel del mar: un estudio de caso de turismo del País Vasco en España'
+author:
+- name: Giuseppe Aliperti
+  affiliations:
+  - Universidad de Deusto, Bilbao -- Donostia/San Sebastián, España
+  corresponding: true
+  email: giuseppe.aliperti@deusto.es
+- name: Aurkene Alzua Sorzabal
+  affiliations:
+  - Universidad de Kioto, Kioto, Japón
+- name: Ana María Cruz
+  affiliations:
+  - Universidad de Deusto, Bilbao -- Donostia/San Sebastián, España
+keywords:
+- Información sobre riesgos; Gobernanza colaborativa; Cambio climático; Aumento del nivel del mar; Destino turístico
+abstract: Este estudio en curso examina la dinámica de adaptación de los destinos turísticos costeros, específicamente la costa vasca en España, en respuesta a la creciente exposición a las amenazas del
+  aumento del nivel del mar (SLR). Utilizando el enfoque de modelos mentales, la investigación compara las perspectivas de expertos y no expertos sobre el proceso de adaptación al SLR. Se identificaron
+  cuatro temas principales relacionados con las amenazas del SLR a través de una revisión de la literatura, y el estudio ofrece recomendaciones para gestionar estos problemas.
+categories:
+- Sesión 4. Percepción del riesgo, comportamiento humano y cultura
+---

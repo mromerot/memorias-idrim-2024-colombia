@@ -1,0 +1,19 @@
+---
+title: Estimación del impacto económico de la erupción del volcán Taal mediante el consumo de electricidad
+author:
+- name: Ma. Flordeliza P. Del Castillo
+  affiliations:
+  - Departamento de Informática Social, Escuela de Posgrado en Informática, Universidad de Kioto, Japón
+- name: Toshio Fujimi y Hirokazu Tatano
+  affiliations:
+  - Geomática para el Medio Ambiente y el Desarrollo, Observatorio de Manila, Universidad Ateneo de Manila, Ciudad Quezón, Filipinas
+keywords:
+- SNPP VIIRS DNB
+- Filipinas
+- Regresión
+- Teledetección
+- Pérdidas y daños por desastres
+abstract: '[[del.pajarillo.83r@st.kyoto-u.ac.jp]{.underline}](mailto:del.pajarillo.83r@st.kyoto-u.ac.jp)'
+categories:
+- Sesión 18. Aseguramiento y protección financiera para la GRD
+---

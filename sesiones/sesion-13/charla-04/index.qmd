@@ -1,0 +1,20 @@
+---
+title: Evaluación multitemporal de la resiliencia comunitaria ante desastres por riesgo tecnológico en la comuna 10 del municipio de Dosquebradas
+author:
+- name: Evelin Langebeck Cuéllar
+  affiliations:
+  - Unidad Nacional para la Gestión del Riesgo de Desastres, Bogotá, Colombia
+- name: Nicolás Giraldo Hernández
+  affiliations:
+  - Dirección de Gestión del Riesgo de Desastres -- Alcaldía de Dosquebradas, Dosquebradas, Colombia
+keywords:
+- Resiliencia comunitaria ante desastres
+- riesgo tecnológico
+- herramienta ARC-D
+- gestión del riesgo de desastres
+- análisis multitemporal de resiliencia
+- percepción del riesgo
+abstract: '[[evelin.langebeck@gmail.com]{.underline}](mailto:evelin.langebeck@gmail.com)'
+categories:
+- Sesión 13. Iniciativas para comunidades resilientes
+---

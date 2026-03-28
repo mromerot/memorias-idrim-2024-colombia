@@ -1,0 +1,31 @@
+---
+title: Evaluación del efecto del cambio climático en las inundaciones por ciclones tropicales en las islas de San Andrés, Providencia y Santa Catalina
+author:
+- name: Wilmer Rey Sánchez
+  affiliations:
+  - PhD en Ingeniera de Costas, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH)- DIMAR, Cartagena, Colombia; Laboratorio de Ingeniería y Procesos Costeros del Instituto de Ingeniería
+    de la Universidad Nacional Autónoma de México.
+  corresponding: true
+  email: w.reysanchez@gmail.com
+- name: Claudia P. Urbano Latorre
+  affiliations:
+  - PhD (c) en Ciencias del Mar, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH) - DIMAR, Cartagena, Colombia.
+- name: Pablo Ruiz Salcines
+  affiliations:
+  - PhD en Ingeniera de Costas, Centro de Investigaciones Oceanográficas e Hidrográficas del Caribe (CIOH)- DIMAR, Cartagena, Colombia; Laboratorio de Ingeniería y Procesos Costeros del Instituto de Ingeniería
+    de la Universidad Nacional Autónoma de México.
+keywords:
+- Marea de tormenta
+- Ciclones tropicales
+- Archipiélago de San Andrés
+- Providencia y Santa Catalina
+- Modelación numérica
+abstract: Debido a la posición geográfica del archipiélago de San Andrés, Providencia y Santa Catalina (SPSC), esta es la parte del territorio colombiano más expuesto a ser inundado por marea de tormenta
+  de ciclones tropicales (CT). Entre los peligros asociados a los CT, las inundaciones suelen ocasionar los mayores daños. En este estudio se evalúa el efecto del cambio climático en la inundación por marea
+  de tormenta en el archipiélago de SPSC. Para ello se habilitó un modelo hidrodinámico para modelar la marea de tormenta e inundación por CT, con una máxima resolución espacial de la malla computacional
+  de 30m en las áreas propensas a inundación. El modelo fue forzado en la superficie con campos de viento y de presión de CT sintéticos generados tanto para clima pasado como para clima futuro bajo escenarios
+  de cambio climático, considerando las trayectorias socio- económicas compartidas emanadas del sexto reporte del Panel Intergubernamental de Cambio Climático. Esta metodología permitió generar marea de
+  tormenta e inundación sintética por CT en estas islas, a la cual se le asignó una probabilidad de ocurrencia.
+categories:
+- Sesión 1. Justicia climática, cambio climático y riesgos emergentes
+---

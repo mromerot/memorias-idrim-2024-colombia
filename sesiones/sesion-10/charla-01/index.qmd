@@ -1,0 +1,15 @@
+---
+title: 'Otro proyecto de la era temprana de la IA: visualización de áreas de refugio después de un desastre y exploración de necesidades y estándares con imágenes generadas por IA'
+author:
+- name: Sofia Kalogeromitrou
+  affiliations:
+  - Ingeniera arquitecta, Máster en Gestión Ambiental, de Crisis y Desastres, Atenas, Grecia
+keywords:
+- Desastre
+- IA
+- áreas de refugio
+- visualización
+abstract: '[[s.kalogeromitrou@gmail.com]{.underline}](mailto:s.kalogeromitrou@gmail.com)'
+categories:
+- Sesión 10. Inteligencia artificial, ciencia, tecnología e innovación
+---

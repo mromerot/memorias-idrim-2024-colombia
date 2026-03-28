@@ -1,0 +1,20 @@
+---
+title: 'Acción de investigación colaborativa "Bosques tropicales: implicaciones globales y acciones urgentes" - FORESTS 2024'
+author:
+- name: Hilario Espinosa
+  affiliations:
+  - Belmont Forum, Panamá
+- name: Omar López Alfano
+  affiliations:
+  - Director Científico, Inter-American Institute for Global Change Research, Panamá
+keywords:
+- Financiamiento
+- bosque tropical
+- Amazonía
+- pueblos indígenas
+- comunidades locales
+categories:
+- Sesión 21. Amazonia, comunidades indígenas y locales
+---
+
+

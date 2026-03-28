@@ -1,0 +1,22 @@
+---
+title: 'Digitalización de la cartografía participativa en la gestión integral del riesgo de desastres: potencial y limitaciones de la herramienta Sketch Map para organizaciones humanitarias'
+author:
+- name: Kimon Letzner
+  affiliations:
+  - Instituto de Tecnología de Geoinformación de Heidelberg, Heidelberg, Alemania
+- name: Anne Schauss1
+  affiliations:
+  - Cruz Roja Colombiana, Bogotá, Colombia
+- name: Sabrina Marx y Eduard Giovanni Ruiz Morales
+  affiliations:
+  - Instituto de Tecnología de Geoinformación de Heidelberg, Heidelberg, Alemania
+keywords:
+- Conocimiento del riesgo de desastres
+- Reducción del riesgo de desastres a nivel comunitario
+- Mapeo participativo
+- Innovación tecnológica
+- Movimiento Internacional de la Cruz Roja y de la Media Luna Roja
+abstract: '[[anne.schauss@heigit.org]{.underline}](mailto:anne.schauss@heigit.org)'
+categories:
+- Sesión 14. Inteligencia artificial, ciencia, tecnología e innovación
+---

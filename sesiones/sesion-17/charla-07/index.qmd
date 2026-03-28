@@ -1,0 +1,15 @@
+---
+title: 'Mapas Comunitarios: una herramienta de participación en la Gestión de Riesgo de Desastres'
+author:
+- name: Evelin Langebeck Cuéllar
+- name: Adriana M Rodríguez Ortiz
+keywords:
+- Comunidades
+- Capacidades
+- Percepción del riesgo
+- Participación
+- Mapas Comunitarios
+abstract: Unidad Nacional de Gestión de Riesgo de Desastres, Bogotá, Colombia
+categories:
+- Sesión 17. Enfoques diferenciales de la GRD
+---
